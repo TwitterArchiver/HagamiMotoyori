@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071914184531439616"
+      ]
+    },
+    "author_id": "1964343116930174978",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071914208745406550",
+    "created_at": "2026-06-30T11:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071914208745406550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BGTeXEd89N",
+          "end": 23,
+          "expanded_url": "https://x.com/HagamiMotoyori/status/2071914208745406550/photo/1",
+          "media_key": "3_2071914184531439616",
+          "start": 0,
+          "url": "https://t.co/BGTeXEd89N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071914208745406550",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/BGTeXEd89N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2071914184531439616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDq-S4W8AASOo1.jpg",
+        "width": 2362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071914184531439616"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071914208745406550",
+        "created_at": "2026-06-30T11:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071914208745406550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGTeXEd89N",
+              "end": 23,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2071914208745406550/photo/1",
+              "media_key": "3_2071914184531439616",
+              "start": 0,
+              "url": "https://t.co/BGTeXEd89N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071914208745406550",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BGTeXEd89N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念，非必要要不鍵政｜互fo喵｜提問箱https://t.co/n6AqeCxqaW|\n討口子https://t.co/hcsZAPOjYh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 98,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 75,
+                "url": "https://t.co/n6AqeCxqaW"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 126,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 103,
+                "url": "https://t.co/hcsZAPOjYh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/e1WH7cFxGL"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057982548979118081/_ruwMj2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 273,
+          "like_count": 2439,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 555
+        },
+        "url": "https://t.co/e1WH7cFxGL",
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

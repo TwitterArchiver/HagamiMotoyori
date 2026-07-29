@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2063496996053516529",
+    "created_at": "2026-06-07T05:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063496996053516529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HagamiMotoyori…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/HagamiMotoyori/status/2063495392059326850",
+          "start": 147,
+          "url": "https://t.co/Kh30PyJGBW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063496996053516529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "主要原因\n你的内容和受众天然偏向中文圈\n你的账号名称、发文语言（中文）、主题（学生生活、学习、理想主义、日常生活观察等）很容易吸引中文使用者互动。很多中国用户（以及海外华人）会看到并点赞，这些互动就被统计进去了。\nIP 推断的实际情况\nX 在中国大陆被屏蔽，但很多人还是用 VPN 上 X。X 的系统不只看当前 IP，还会结合帐户历史、装置语言、行为模式等综合判断「这个用户大概率来自中国」。\n香港（13.1%）和新加坡（7.1%）占比也不低，这很典型——既是海外华人集中地，也是很多 VPN 的出口节点。\n即使你现在人在美国（Santa Clara）\n你发帖时的 IP 是美国，不影响「谁来点赞」。观众可以完全是全球的，尤其是中文内容创作者，中国 + 香港 + 新加坡 加起来超过一半非常常见。\n数据周期\nX 的受众分析通常看最近 28 天（或你选的时间范围）的互动，所以反映的是这段时间内实际点赞你内容的人的分布"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063495392059326850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主要原因\n你的内容和受众天然偏向中文圈\n你的账号名称、发文语言（中文）、主题（学生生活、学习、理想主义、日常生活观察等）很容易吸引中文使用者互动。很多中国用户（以及海外华人）会看到并点赞，这些互动就被统计进去了。\nIP 推断的实际情况\nX 在中国大陆被屏蔽，但很多人还是用 VPN 上 X。X https://t.co/Kh30PyJGBW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063495383016407040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMCHjRaAAAkgWr.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2063496996053516529",
+        "created_at": "2026-06-07T05:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063496996053516529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HagamiMotoyori…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/HagamiMotoyori/status/2063495392059326850",
+              "start": 147,
+              "url": "https://t.co/Kh30PyJGBW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063496996053516529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "主要原因\n你的内容和受众天然偏向中文圈\n你的账号名称、发文语言（中文）、主题（学生生活、学习、理想主义、日常生活观察等）很容易吸引中文使用者互动。很多中国用户（以及海外华人）会看到并点赞，这些互动就被统计进去了。\nIP 推断的实际情况\nX 在中国大陆被屏蔽，但很多人还是用 VPN 上 X。X 的系统不只看当前 IP，还会结合帐户历史、装置语言、行为模式等综合判断「这个用户大概率来自中国」。\n香港（13.1%）和新加坡（7.1%）占比也不低，这很典型——既是海外华人集中地，也是很多 VPN 的出口节点。\n即使你现在人在美国（Santa Clara）\n你发帖时的 IP 是美国，不影响「谁来点赞」。观众可以完全是全球的，尤其是中文内容创作者，中国 + 香港 + 新加坡 加起来超过一半非常常见。\n数据周期\nX 的受众分析通常看最近 28 天（或你选的时间范围）的互动，所以反映的是这段时间内实际点赞你内容的人的分布"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063495392059326850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主要原因\n你的内容和受众天然偏向中文圈\n你的账号名称、发文语言（中文）、主题（学生生活、学习、理想主义、日常生活观察等）很容易吸引中文使用者互动。很多中国用户（以及海外华人）会看到并点赞，这些互动就被统计进去了。\nIP 推断的实际情况\nX 在中国大陆被屏蔽，但很多人还是用 VPN 上 X。X https://t.co/Kh30PyJGBW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063495383016407040"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "conversation_id": "2063495392059326850",
+        "created_at": "2026-06-07T05:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063495392059326850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4dXJYng7A",
+              "end": 33,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2063495392059326850/photo/1",
+              "media_key": "3_2063495383016407040",
+              "start": 10,
+              "url": "https://t.co/N4dXJYng7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063495392059326850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是，怎么中国最多 https://t.co/N4dXJYng7A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人类？！或许是吧｜无证含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 重度社交障礙 ｜无性恋｜生物在讀｜生命科學 通信工程｜日常碎碎念，非必要要不鍵政。https://t.co/IrwldmTp60｜提問箱https://t.co/TCPiEnLJQu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 99,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 76,
+                "url": "https://t.co/IrwldmTp60"
+              },
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 126,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 103,
+                "url": "https://t.co/TCPiEnLJQu"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2062813386770182655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057982548979118081/_ruwMj2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 336,
+          "like_count": 2368,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 504
+        },
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

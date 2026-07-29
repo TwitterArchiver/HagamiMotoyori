@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2056336110209696056",
+    "created_at": "2026-05-18T11:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056340675227258986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987885638038036480",
+          "start": 0,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056340675227258986",
+    "in_reply_to_user_id": "1987885638038036480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056336110209696056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizorewww 只是登记"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_2056336103335133184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImSyoIaAAAHM04.jpg",
+        "width": 1359
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2056336110209696056",
+        "created_at": "2026-05-18T11:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056340675227258986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987885638038036480",
+              "start": 0,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056340675227258986",
+        "in_reply_to_user_id": "1987885638038036480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056336110209696056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizorewww 只是登记"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056336103335133184"
+          ]
+        },
+        "author_id": "1987885638038036480",
+        "conversation_id": "2056336110209696056",
+        "created_at": "2026-05-18T11:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056336110209696056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZMXYZllTJ",
+              "end": 34,
+              "expanded_url": "https://x.com/mizorewww/status/2056336110209696056/photo/1",
+              "media_key": "3_2056336103335133184",
+              "start": 11,
+              "url": "https://t.co/OZMXYZllTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056336110209696056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这啥呀，不想要服兵役 https://t.co/OZMXYZllTJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "无证含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 重度社交障礙 ｜\n生命科學｜日常碎碎念，非必要要不鍵政。\n歡迎來互fo,我很想交朋友喵！\nhttps://t.co/IrwldmTp60｜提問箱https://t.co/TCPiEnLJQu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 93,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 70,
+                "url": "https://t.co/IrwldmTp60"
+              },
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 120,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 97,
+                "url": "https://t.co/TCPiEnLJQu"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040822642689847296/JsAmJVcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 334,
+          "like_count": 1910,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 377
+        },
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 高三 中国上海高中生 开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\n\n联系方式：\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 114,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 91,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2049113964022501793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 856,
+          "like_count": 11166,
+          "listed_count": 2,
+          "media_count": 506,
+          "tweet_count": 2867
+        },
+        "username": "mizorewww",
+        "verified": true
+      }
+    ]
+  }
+}

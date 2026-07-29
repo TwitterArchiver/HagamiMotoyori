@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066673888847908864"
+      ]
+    },
+    "author_id": "1964343116930174978",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2066673985887322114",
+    "created_at": "2026-06-16T00:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T01:07:08.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066673895814619402",
+      "2066673985887322114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1h6foBUfgA",
+          "end": 44,
+          "expanded_url": "https://x.com/HagamiMotoyori/status/2066673985887322114/photo/1",
+          "media_key": "3_2066673888847908864",
+          "start": 21,
+          "url": "https://t.co/1h6foBUfgA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066673985887322114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Grok你什麼實力你敢稱全球最聰明的AI https://t.co/1h6foBUfgA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2066673888847908864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5M88Na0AAZAiu.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066673888847908864"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "conversation_id": "2066673895814619402",
+        "created_at": "2026-06-16T00:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:07:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066673895814619402",
+          "2066673985887322114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4KEQnRC6mR",
+              "end": 40,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2066673895814619402/photo/1",
+              "media_key": "3_2066673888847908864",
+              "start": 17,
+              "url": "https://t.co/4KEQnRC6mR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066673895814619402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你什麼實力你敢稱全球最聰明的AI https://t.co/4KEQnRC6mR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066673888847908864"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2066673985887322114",
+        "created_at": "2026-06-16T00:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:07:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066673895814619402",
+          "2066673985887322114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1h6foBUfgA",
+              "end": 44,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2066673985887322114/photo/1",
+              "media_key": "3_2066673888847908864",
+              "start": 21,
+              "url": "https://t.co/1h6foBUfgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066673985887322114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Grok你什麼實力你敢稱全球最聰明的AI https://t.co/1h6foBUfgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 通信工程｜日常碎碎念，非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 102,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 79,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 130,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 107,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2062813386770182655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057982548979118081/_ruwMj2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 279,
+          "like_count": 2451,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 558
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

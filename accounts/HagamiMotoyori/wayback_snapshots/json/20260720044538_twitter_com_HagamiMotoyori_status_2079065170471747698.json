@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2079065170471747698",
+    "created_at": "2026-07-20T04:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079065170471747698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1966932338044268555",
+          "start": 3,
+          "username": "HerodotusWave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079065170471747698",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 421
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078865696793252097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HerodotusWave: Theatrical SFX trick: Teasing apart red wool yarn onto wet skin adhesive for the perfect vascular vein effect. https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2078535659430793216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhxK3Fa0AAnLUA.png",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2079065170471747698",
+        "created_at": "2026-07-20T04:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079065170471747698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1966932338044268555",
+              "start": 3,
+              "username": "HerodotusWave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079065170471747698",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 421
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078865696793252097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HerodotusWave: Theatrical SFX trick: Teasing apart red wool yarn onto wet skin adhesive for the perfect vascular vein effect. https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078535659430793216"
+          ]
+        },
+        "author_id": "1966932338044268555",
+        "conversation_id": "2078865696793252097",
+        "created_at": "2026-07-19T15:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078865696793252097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSLNpWeSIR",
+              "end": 134,
+              "expanded_url": "https://x.com/HerodotusWave/status/2078865696793252097/photo/1",
+              "media_key": "3_2078535659430793216",
+              "start": 111,
+              "url": "https://t.co/uSLNpWeSIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078865696793252097",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1195,
+          "impression_count": 159753,
+          "like_count": 6298,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 421
+        },
+        "reply_settings": "everyone",
+        "text": "Theatrical SFX trick: Teasing apart red wool yarn onto wet skin adhesive for the perfect vascular vein effect. https://t.co/uSLNpWeSIR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念，非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 98,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 75,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 126,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 103,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 323,
+          "like_count": 3758,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-13T18:30:17.000Z",
+        "description": "🏺 History, Art, Culture and Nature 🏺\nExploring Timeless Beauty",
+        "id": "1966932338044268555",
+        "name": "HerodotusWave",
+        "pinned_tweet_id": "2078865696793252097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966934712594898944/q135lrKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19499,
+          "following_count": 5405,
+          "like_count": 37851,
+          "listed_count": 178,
+          "media_count": 3326,
+          "tweet_count": 7051
+        },
+        "url": "",
+        "username": "HerodotusWave",
+        "verified": true
+      }
+    ]
+  }
+}

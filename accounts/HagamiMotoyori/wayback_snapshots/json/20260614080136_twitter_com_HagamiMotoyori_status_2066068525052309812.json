@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066068515556339712"
+      ]
+    },
+    "author_id": "1964343116930174978",
+    "conversation_id": "2066068525052309812",
+    "created_at": "2026-06-14T08:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066068525052309812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2JVaxS8Dtw",
+          "end": 23,
+          "expanded_url": "https://x.com/HagamiMotoyori/status/2066068525052309812/photo/1",
+          "media_key": "3_2066068515556339712",
+          "start": 0,
+          "url": "https://t.co/2JVaxS8Dtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066068525052309812",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/2JVaxS8Dtw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_2066068515556339712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwmXk9asAAPfiF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066068515556339712"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "conversation_id": "2066068525052309812",
+        "created_at": "2026-06-14T08:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066068525052309812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2JVaxS8Dtw",
+              "end": 23,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2066068525052309812/photo/1",
+              "media_key": "3_2066068515556339712",
+              "start": 0,
+              "url": "https://t.co/2JVaxS8Dtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066068525052309812",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2JVaxS8Dtw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 通信工程｜日常碎碎念，非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 102,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 79,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 130,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 107,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2062813386770182655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057982548979118081/_ruwMj2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 281,
+          "like_count": 2447,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

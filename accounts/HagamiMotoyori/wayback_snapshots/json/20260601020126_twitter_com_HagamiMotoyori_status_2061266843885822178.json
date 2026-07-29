@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061266830745075712",
+        "3_2061266831579742208"
+      ]
+    },
+    "author_id": "1964343116930174978",
+    "conversation_id": "2061266843885822178",
+    "created_at": "2026-06-01T02:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061266843885822178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nOz0XkrEDL",
+          "end": 23,
+          "expanded_url": "https://x.com/HagamiMotoyori/status/2061266843885822178/photo/1",
+          "media_key": "3_2061266830745075712",
+          "start": 0,
+          "url": "https://t.co/nOz0XkrEDL"
+        },
+        {
+          "display_url": "pic.x.com/nOz0XkrEDL",
+          "end": 23,
+          "expanded_url": "https://x.com/HagamiMotoyori/status/2061266843885822178/photo/1",
+          "media_key": "3_2061266831579742208",
+          "start": 0,
+          "url": "https://t.co/nOz0XkrEDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061266843885822178",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/nOz0XkrEDL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061266830745075712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsXQvHbAAAwAsl.jpg",
+        "width": 936
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061266831579742208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsXQyObAAAtMfh.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061266830745075712",
+            "3_2061266831579742208"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "conversation_id": "2061266843885822178",
+        "created_at": "2026-06-01T02:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061266843885822178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nOz0XkrEDL",
+              "end": 23,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2061266843885822178/photo/1",
+              "media_key": "3_2061266830745075712",
+              "start": 0,
+              "url": "https://t.co/nOz0XkrEDL"
+            },
+            {
+              "display_url": "pic.x.com/nOz0XkrEDL",
+              "end": 23,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2061266843885822178/photo/1",
+              "media_key": "3_2061266831579742208",
+              "start": 0,
+              "url": "https://t.co/nOz0XkrEDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061266843885822178",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nOz0XkrEDL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人类？！或许是吧｜无证含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 重度社交障礙 ｜无性恋｜生物在讀｜生命科學 通信工程｜日常碎碎念，非必要要不鍵政。https://t.co/IrwldmTp60｜提問箱https://t.co/TCPiEnLJQu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 99,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 76,
+                "url": "https://t.co/IrwldmTp60"
+              },
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 126,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 103,
+                "url": "https://t.co/TCPiEnLJQu"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057982548979118081/_ruwMj2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 322,
+          "like_count": 2120,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 439
+        },
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

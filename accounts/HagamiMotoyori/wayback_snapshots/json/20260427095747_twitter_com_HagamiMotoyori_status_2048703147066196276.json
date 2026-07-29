@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048703139310907393"
+      ]
+    },
+    "author_id": "1964343116930174978",
+    "conversation_id": "2048697546659500346",
+    "created_at": "2026-04-27T09:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048703147066196276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0t1gOXLa5a",
+          "end": 39,
+          "expanded_url": "https://x.com/HagamiMotoyori/status/2048703147066196276/photo/1",
+          "media_key": "3_2048703139310907393",
+          "start": 16,
+          "url": "https://t.co/0t1gOXLa5a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048703147066196276",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048697546659500346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen https://t.co/0t1gOXLa5a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2048703139310907393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG50ppTasAETQob.jpg",
+        "width": 1471
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2048697538723926016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5vjpfbUAAWD5O.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048703139310907393"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "conversation_id": "2048697546659500346",
+        "created_at": "2026-04-27T09:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048703147066196276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0t1gOXLa5a",
+              "end": 39,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2048703147066196276/photo/1",
+              "media_key": "3_2048703139310907393",
+              "start": 16,
+              "url": "https://t.co/0t1gOXLa5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048703147066196276",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048697546659500346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen https://t.co/0t1gOXLa5a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048697538723926016"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2048697546659500346",
+        "created_at": "2026-04-27T09:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048697546659500346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhYLidtpn5",
+              "end": 42,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2048697546659500346/photo/1",
+              "media_key": "3_2048697538723926016",
+              "start": 19,
+              "url": "https://t.co/DhYLidtpn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048697546659500346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么只有正态分布，而没有萝莉分布？ https://t.co/DhYLidtpn5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "事男娘？事人機！生產日期2006.09產地：廣西｜\n中度抑鬱 重度焦慮 重度社交障礙 ｜\n生命科學｜日常碎碎念，非必要要不鍵政。\n歡迎來互fo,我很想交朋友喵！\nhttps://t.co/IrwldmTp60｜提問箱https://t.co/TCPiEnLJQu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 104,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 81,
+                "url": "https://t.co/IrwldmTp60"
+              },
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 131,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 108,
+                "url": "https://t.co/TCPiEnLJQu"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040822642689847296/JsAmJVcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 303,
+          "like_count": 1555,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 290
+        },
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 606,
+          "like_count": 15680,
+          "listed_count": 5,
+          "media_count": 922,
+          "tweet_count": 4925
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

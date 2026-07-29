@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2055652634267455748",
+    "created_at": "2026-05-17T08:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055931914369024220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1789599446881513472",
+          "start": 0,
+          "username": "xchase173294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055931914369024220",
+    "in_reply_to_user_id": "1789599446881513472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055652634267455748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xchase173294 哪里有早睡了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 303,
+        "media_key": "3_2055652561303289856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIclHPoawAAOaDu.png",
+        "width": 690
+      },
+      {
+        "height": 820,
+        "media_key": "3_2055652574980956160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIclIClbYAAQYJy.png",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2055652634267455748",
+        "created_at": "2026-05-17T08:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055931914369024220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1789599446881513472",
+              "start": 0,
+              "username": "xchase173294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055931914369024220",
+        "in_reply_to_user_id": "1789599446881513472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055652634267455748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xchase173294 哪里有早睡了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055652561303289856",
+            "3_2055652574980956160"
+          ]
+        },
+        "author_id": "1789599446881513472",
+        "conversation_id": "2055652634267455748",
+        "created_at": "2026-05-16T14:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055652634267455748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dlcH4ruKfv",
+              "end": 37,
+              "expanded_url": "https://x.com/xchase173294/status/2055652634267455748/photo/1",
+              "media_key": "3_2055652561303289856",
+              "start": 14,
+              "url": "https://t.co/dlcH4ruKfv"
+            },
+            {
+              "display_url": "pic.x.com/dlcH4ruKfv",
+              "end": 37,
+              "expanded_url": "https://x.com/xchase173294/status/2055652634267455748/photo/1",
+              "media_key": "3_2055652574980956160",
+              "start": 14,
+              "url": "https://t.co/dlcH4ruKfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055652634267455748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 29058,
+          "like_count": 192,
+          "quote_count": 2,
+          "reply_count": 69,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "来自衡水学校的强制爱🫤🫤🫤 https://t.co/dlcH4ruKfv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "无证含糖｜生產日期2006產地：廣西｜\n中度抑鬱 重度焦慮 重度社交障礙 ｜\n生命科學｜日常碎碎念，非必要要不鍵政。\n歡迎來互fo,我很想交朋友喵！\nhttps://t.co/IrwldmTp60｜提問箱https://t.co/TCPiEnLJQu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 98,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 75,
+                "url": "https://t.co/IrwldmTp60"
+              },
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 125,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 102,
+                "url": "https://t.co/TCPiEnLJQu"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040822642689847296/JsAmJVcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 338,
+          "like_count": 1875,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 359
+        },
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-12T10:12:25.000Z",
+        "description": "🚀985经济学本科在读\n🇸🇬非传统NUS留子\n👀现象思考、经济分析",
+        "id": "1789599446881513472",
+        "name": "Xu",
+        "pinned_tweet_id": "2042954888179781717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044695956634157056/gXVFkotO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 300,
+          "like_count": 4269,
+          "listed_count": 9,
+          "media_count": 508,
+          "tweet_count": 3808
+        },
+        "username": "xchase173294",
+        "verified": true
+      }
+    ]
+  }
+}

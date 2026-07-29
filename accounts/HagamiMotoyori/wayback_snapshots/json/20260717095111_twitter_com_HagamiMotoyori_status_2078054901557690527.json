@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2078054901557690527",
+    "created_at": "2026-07-17T09:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078054901557690527"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 101,
+          "tag": "ヤニねこ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1181765403229339650",
+          "start": 3,
+          "username": "odakyubus_jokyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078054901557690527",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2427
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078012124803350743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @odakyubus_jokyo: 本日7月17日（金）より吉祥寺営業所エリアで、毎週木曜24時30分放送中のTVアニメ『ヤニねこ』のラッピング車両が運行します！見かけたら、是非ご乗車ください。\n#ヤニねこ\n※運行路線、時間の問合せは対応しておりません。 https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2077950085049286656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZcl8hbAAATIoo.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2078054901557690527",
+        "created_at": "2026-07-17T09:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078054901557690527"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1181765403229339650",
+              "start": 3,
+              "username": "odakyubus_jokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078054901557690527",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2427
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078012124803350743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @odakyubus_jokyo: 本日7月17日（金）より吉祥寺営業所エリアで、毎週木曜24時30分放送中のTVアニメ『ヤニねこ』のラッピング車両が運行します！見かけたら、是非ご乗車ください。\n#ヤニねこ\n※運行路線、時間の問合せは対応しておりません。 https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077950085049286656"
+          ]
+        },
+        "author_id": "1181765403229339650",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2078012124803350743",
+        "created_at": "2026-07-17T07:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078012124803350743"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQhH98iiwF",
+              "end": 133,
+              "expanded_url": "https://x.com/odakyubus_jokyo/status/2078012124803350743/photo/1",
+              "media_key": "3_2077950085049286656",
+              "start": 110,
+              "url": "https://t.co/xQhH98iiwF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078012124803350743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 491,
+          "impression_count": 424527,
+          "like_count": 5914,
+          "quote_count": 697,
+          "reply_count": 126,
+          "retweet_count": 2427
+        },
+        "reply_settings": "everyone",
+        "text": "本日7月17日（金）より吉祥寺営業所エリアで、毎週木曜24時30分放送中のTVアニメ『ヤニねこ』のラッピング車両が運行します！見かけたら、是非ご乗車ください。\n#ヤニねこ\n※運行路線、時間の問合せは対応しておりません。 https://t.co/xQhH98iiwF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念，非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 98,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 75,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 126,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 103,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 314,
+          "like_count": 3090,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 635
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-09T02:56:57.000Z",
+        "description": "台風や大雪等の荒天時や災害発生時など当社が非常時と判断した場合の運行状況を中心にお知らせします。日常の運行状況はバスロケーションシステムをご利用ください。ご意見・ご質問・ご要望はお客さまセンターへお願いします。\n空港連絡バスは@odakyulimousine\n※Ｘの仕様により、アカウントがないと最新情報は見られません。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "odakyulimousine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odakyubus.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.odakyubus.co.jp/",
+                "start": 0,
+                "url": "https://t.co/8irwMoK3nl"
+              }
+            ]
+          }
+        },
+        "id": "1181765403229339650",
+        "name": "【公式】小田急バス 運行状況",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1181779723510173696/Jx0Kw2Hk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7977,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 81,
+          "media_count": 48,
+          "tweet_count": 487
+        },
+        "url": "https://t.co/8irwMoK3nl",
+        "username": "odakyubus_jokyo",
+        "verified": false
+      }
+    ]
+  }
+}

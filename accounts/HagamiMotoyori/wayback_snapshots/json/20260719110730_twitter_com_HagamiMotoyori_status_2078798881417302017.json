@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2078796284257784060",
+    "created_at": "2026-07-19T11:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078798881417302017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1600929805515399168",
+          "start": 0,
+          "username": "Luna4rzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078798881417302017",
+    "in_reply_to_user_id": "1600929805515399168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078796284257784060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luna4rzd 最好不要口服"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078796268944429056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNleMVLXEAAgYvD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2078796284257784060",
+        "created_at": "2026-07-19T11:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078798881417302017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1600929805515399168",
+              "start": 0,
+              "username": "Luna4rzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078798881417302017",
+        "in_reply_to_user_id": "1600929805515399168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078796284257784060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luna4rzd 最好不要口服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078796268944429056"
+          ]
+        },
+        "author_id": "1600929805515399168",
+        "conversation_id": "2078796284257784060",
+        "created_at": "2026-07-19T10:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078796284257784060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BqQP5Ybt84",
+              "end": 40,
+              "expanded_url": "https://x.com/Luna4rzd/status/2078796284257784060/photo/1",
+              "media_key": "3_2078796268944429056",
+              "start": 17,
+              "url": "https://t.co/BqQP5Ybt84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078796284257784060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘻嘻嘻\n口服会飞升雌二醇星球吗🥺 https://t.co/BqQP5Ybt84"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念，非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 98,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 75,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 126,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 103,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 316,
+          "like_count": 3466,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-08T19:06:37.000Z",
+        "description": "未出柜 mtf🏳️‍⚧️一枚喵｜\n同类互fo｜\n年龄党 无证含糖｜\nHRT 🍥 2026.7.17\n11年激活｜",
+        "id": "1600929805515399168",
+        "location": "远在天边 近在眼前",
+        "name": "Luna 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075228119347380535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077301419783184384/Uw3-Oh3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 311,
+          "like_count": 1403,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 513
+        },
+        "url": "",
+        "username": "Luna4rzd",
+        "verified": true
+      }
+    ]
+  }
+}

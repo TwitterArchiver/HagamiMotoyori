@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2048669628776526090",
+    "created_at": "2026-04-28T02:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T03:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048947835777999108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1649109100666703872",
+          "start": 0,
+          "username": "Mttttwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048947835777999108",
+    "in_reply_to_user_id": "1649109100666703872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048669628776526090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mttttwo 西北这边是这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048669616873017344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5WKYfaEAAxHno.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2048669628776526090",
+        "created_at": "2026-04-28T02:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048947835777999108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1649109100666703872",
+              "start": 0,
+              "username": "Mttttwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048947835777999108",
+        "in_reply_to_user_id": "1649109100666703872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048669628776526090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mttttwo 西北这边是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048669616873017344"
+          ]
+        },
+        "author_id": "1649109100666703872",
+        "conversation_id": "2048669628776526090",
+        "created_at": "2026-04-27T07:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048669628776526090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQvuJByhdA",
+              "end": 37,
+              "expanded_url": "https://x.com/Mttttwo/status/2048669628776526090/photo/1",
+              "media_key": "3_2048669616873017344",
+              "start": 14,
+              "url": "https://t.co/tQvuJByhdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048669628776526090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1269,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么又开始冷了\n兰州我恨你 https://t.co/tQvuJByhdA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "事男娘？事人機！生產日期2006.09產地：廣西｜\n中度抑鬱 重度焦慮 重度社交障礙 ｜\n生命科學｜日常碎碎念，非必要要不鍵政。\n歡迎來互fo,我很想交朋友喵！\nhttps://t.co/IrwldmTp60｜提問箱https://t.co/TCPiEnLJQu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 104,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 81,
+                "url": "https://t.co/IrwldmTp60"
+              },
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 131,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 108,
+                "url": "https://t.co/TCPiEnLJQu"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040822642689847296/JsAmJVcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 305,
+          "like_count": 1570,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 298
+        },
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-20T17:53:51.000Z",
+        "description": "野鸡学校|瑙蚕专业|绩点0.0|男女混血|华籍南方人 | OPPO A5 | 期待大厂 offer ｜mean girl｜PDD资深买手|mxbc品鉴师1|艾欧泽亚国倒﹣舞者|共勉|甘肃留子|bbw（其实是胖）|照骗 四级差50分、雅思托福没考、恩格尔系数100%、诺贝尔文学奖觊觎者、荣获奥林匹克运动奖章者的粉丝",
+        "id": "1649109100666703872",
+        "location": "不约炮",
+        "name": "我们甚至失去黄昏",
+        "pinned_tweet_id": "1922192820250546605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015579248786857984/Il7n8hkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 22,
+          "like_count": 10,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 378
+        },
+        "username": "Mttttwo",
+        "verified": false
+      }
+    ]
+  }
+}

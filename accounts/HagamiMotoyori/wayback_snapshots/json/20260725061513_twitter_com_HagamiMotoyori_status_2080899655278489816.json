@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080899632654393344"
+      ]
+    },
+    "author_id": "1964343116930174978",
+    "conversation_id": "2080899655278489816",
+    "created_at": "2026-07-25T06:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080899655278489816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1SNu7H97VQ",
+          "end": 54,
+          "expanded_url": "https://x.com/HagamiMotoyori/status/2080899655278489816/photo/1",
+          "media_key": "3_2080899632654393344",
+          "start": 31,
+          "url": "https://t.co/1SNu7H97VQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080899655278489816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "親愛的父母，你們的兒子已經服用人妖藥，恭喜你們喜提一個女兒😊 https://t.co/1SNu7H97VQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080899632654393344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODXMNmbIAAlMXO.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080899632654393344"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "conversation_id": "2080899655278489816",
+        "created_at": "2026-07-25T06:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080899655278489816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1SNu7H97VQ",
+              "end": 54,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2080899655278489816/photo/1",
+              "media_key": "3_2080899632654393344",
+              "start": 31,
+              "url": "https://t.co/1SNu7H97VQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080899655278489816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "親愛的父母，你們的兒子已經服用人妖藥，恭喜你們喜提一個女兒😊 https://t.co/1SNu7H97VQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 83,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 134,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 111,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2079429027346174135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 364,
+          "like_count": 5098,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2064171176742756663",
+    "created_at": "2026-06-09T02:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T03:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064171176742756663"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064171176742756663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我各個學科水平：\n語文：讓我們說中文\n英語：Chinglish\n數學：直接導\n物理：大物我怎麼一點都看不懂\n化學：分析化學嘰裏咕嚕說啥呢\n生物：植物學記不住一點\n政治：瘋狂的豆蒸\n歷史：野史不一定真，但一定野"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2064171176742756663",
+        "created_at": "2026-06-09T02:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064171176742756663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064171176742756663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我各個學科水平：\n語文：讓我們說中文\n英語：Chinglish\n數學：直接導\n物理：大物我怎麼一點都看不懂\n化學：分析化學嘰裏咕嚕說啥呢\n生物：植物學記不住一點\n政治：瘋狂的豆蒸\n歷史：野史不一定真，但一定野"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 通信工程｜日常碎碎念，非必要要不鍵政｜互fo喵https://t.co/IrwldmTp60｜提問箱https://t.co/TCPiEnLJQu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 98,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 75,
+                "url": "https://t.co/IrwldmTp60"
+              },
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 125,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 102,
+                "url": "https://t.co/TCPiEnLJQu"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2062813386770182655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057982548979118081/_ruwMj2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 326,
+          "like_count": 2477,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 527
+        },
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

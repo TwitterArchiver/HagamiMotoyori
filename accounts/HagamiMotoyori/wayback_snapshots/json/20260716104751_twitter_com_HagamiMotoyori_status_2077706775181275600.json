@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2077706775181275600",
+    "created_at": "2026-07-16T10:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077706775181275600"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077706775181275600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "晋太元中，武陵人滴守巴陵郡，缘溪行，忘路之远近，忽逢桃花林，钠镁铝硅磷，见渔人，乃大惊，一岁一枯荣，氢氦锂铍硼，嗟乎，冯唐易老，李广难封，荣曜秋菊，华茂春松，海上明月共潮生，已而夕阳在山，人影散乱 东阳马生君则，高尚士也，闻之，欣然归往，遂至承天寺寻张怀民，怀民亦未寝，假寐盖以诱敌也，未果，寻病终，不以物喜，不以己悲，觉今是而昨非，后遂无问津者，元丰六年十月十二日夜。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晋太元中，武陵人滴守巴陵郡，缘溪行，忘路之远近，忽逢桃花林，钠镁铝硅磷，见渔人，乃大惊，一岁一枯荣，氢氦锂铍硼，嗟乎，冯唐易老，李广难封，荣曜秋菊，华茂春松，海上明月共潮生，已而夕阳在山，人影散乱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2077706775181275600",
+        "created_at": "2026-07-16T10:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077706775181275600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077706775181275600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "晋太元中，武陵人滴守巴陵郡，缘溪行，忘路之远近，忽逢桃花林，钠镁铝硅磷，见渔人，乃大惊，一岁一枯荣，氢氦锂铍硼，嗟乎，冯唐易老，李广难封，荣曜秋菊，华茂春松，海上明月共潮生，已而夕阳在山，人影散乱 东阳马生君则，高尚士也，闻之，欣然归往，遂至承天寺寻张怀民，怀民亦未寝，假寐盖以诱敌也，未果，寻病终，不以物喜，不以己悲，觉今是而昨非，后遂无问津者，元丰六年十月十二日夜。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晋太元中，武陵人滴守巴陵郡，缘溪行，忘路之远近，忽逢桃花林，钠镁铝硅磷，见渔人，乃大惊，一岁一枯荣，氢氦锂铍硼，嗟乎，冯唐易老，李广难封，荣曜秋菊，华茂春松，海上明月共潮生，已而夕阳在山，人影散乱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念，非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 98,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 75,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 126,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 103,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 308,
+          "like_count": 2915,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

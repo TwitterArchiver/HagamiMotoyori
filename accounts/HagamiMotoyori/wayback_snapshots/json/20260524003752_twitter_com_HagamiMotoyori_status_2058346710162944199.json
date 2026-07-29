@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2058346710162944199",
+    "created_at": "2026-05-24T00:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T01:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058346710162944199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1044093629323632640",
+          "start": 3,
+          "username": "trumpchinese1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/O",
+          "end": 139,
+          "start": 125,
+          "url": "https://t.co/O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058346710162944199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058231167762288764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trumpchinese1: 群众高呼“再干四年”！\n特朗普总统：“你们知道有任期限制，对吧？我们只是不想要那样的结果。我们不想要…我们赢了三次！但我们只想要第一任和第三任的结果。”\n（此时台下群众开始齐声高呼：“再干四年！再干四年！”）… https://t.co/O…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37760,
+        "height": 1080,
+        "media_key": "13_2058230577086767105",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058230577086767105/img/wYO2il7v_lk18YqA.jpg",
+        "public_metrics": {
+          "view_count": 51962
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058230577086767105/pl/jVt5KIg5OZrKJkQ9.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058230577086767105/vid/avc1/640x360/JNPnXU_LOnmSI2TS.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058230577086767105/vid/avc1/480x270/G8xPZ7BJJJ6388Jd.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058230577086767105/vid/avc1/1920x1080/PNhzVjKKArX5zB3k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058230577086767105/vid/avc1/1280x720/lt55yq7LyXoaeWAR.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2058346710162944199",
+        "created_at": "2026-05-24T00:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058346710162944199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1044093629323632640",
+              "start": 3,
+              "username": "trumpchinese1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/O",
+              "end": 139,
+              "start": 125,
+              "url": "https://t.co/O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058346710162944199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058231167762288764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trumpchinese1: 群众高呼“再干四年”！\n特朗普总统：“你们知道有任期限制，对吧？我们只是不想要那样的结果。我们不想要…我们赢了三次！但我们只想要第一任和第三任的结果。”\n（此时台下群众开始齐声高呼：“再干四年！再干四年！”）… https://t.co/O…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058230577086767105"
+          ]
+        },
+        "author_id": "1044093629323632640",
+        "conversation_id": "2058231167762288764",
+        "created_at": "2026-05-23T16:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:58:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058231090679263701",
+          "2058231167762288764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWxfRfYwu4",
+              "end": 128,
+              "expanded_url": "https://x.com/trumpchinese1/status/2058231167762288764/video/1",
+              "media_key": "13_2058230577086767105",
+              "start": 105,
+              "url": "https://t.co/OWxfRfYwu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058231167762288764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "群众高呼“再干四年”！\n特朗普总统：“你们知道有任期限制，对吧？我们只是不想要那样的结果。我们不想要…我们赢了三次！但我们只想要第一任和第三任的结果。”\n（此时台下群众开始齐声高呼：“再干四年！再干四年！”）\n特朗普总统：“我们还有一些…有些帽子上写着‘再干四年’。这让那些激进的左翼疯子们抓狂。但我们做了所有不同的事情，我们拯救了你们……”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 96298,
+          "like_count": 237,
+          "quote_count": 5,
+          "reply_count": 53,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "群众高呼“再干四年”！\n特朗普总统：“你们知道有任期限制，对吧？我们只是不想要那样的结果。我们不想要…我们赢了三次！但我们只想要第一任和第三任的结果。”\n（此时台下群众开始齐声高呼：“再干四年！再干四年！”） https://t.co/OWxfRfYwu4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人类？！或许是吧｜生產日期2006｜\n中度抑鬱 重度焦慮 重度社交障礙 ｜无性恋｜生命科學｜日常碎碎念，非必要要不鍵政。https://t.co/IrwldmTp60｜提問箱https://t.co/TCPiEnLJQu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 84,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 61,
+                "url": "https://t.co/IrwldmTp60"
+              },
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 111,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 88,
+                "url": "https://t.co/TCPiEnLJQu"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057982548979118081/_ruwMj2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 327,
+          "like_count": 1984,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 408
+        },
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-24T05:18:14.000Z",
+        "description": "MAGA！美利坚合众国第45和47任总统特朗普相关资讯和言论汇总。",
+        "id": "1044093629323632640",
+        "location": "美国",
+        "name": "特朗普中文推特",
+        "pinned_tweet_id": "2057864873531552116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881970924439924736/Bq7XsG1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376428,
+          "following_count": 389,
+          "like_count": 6574,
+          "listed_count": 612,
+          "media_count": 1513,
+          "tweet_count": 6788
+        },
+        "username": "trumpchinese1",
+        "verified": true
+      }
+    ]
+  }
+}

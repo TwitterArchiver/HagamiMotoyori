@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076843325269897216"
+      ]
+    },
+    "author_id": "1964343116930174978",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Electronic",
+          "id": "849684313704611840",
+          "name": "Electronic music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1254826839555469314",
+          "name": "Trance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1285999703704743938",
+          "name": "Dance & electronic"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Electronic",
+          "id": "849684313704611840",
+          "name": "Electronic music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1254826839555469314",
+          "name": "Trance"
+        }
+      }
+    ],
+    "conversation_id": "2076843339115356607",
+    "created_at": "2026-07-14T01:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076843339115356607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BW7yL6raEC",
+          "end": 175,
+          "expanded_url": "https://x.com/HagamiMotoyori/status/2076843339115356607/photo/1",
+          "media_key": "3_2076843325269897216",
+          "start": 152,
+          "url": "https://t.co/BW7yL6raEC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076843339115356607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你说得对🤓\n但今天是😋\n红色电音😡\n极地大冲击🤯\n来势汹汹的TRANCE电音😨\n激爆网络神秘地带😎\n加上风靡多年的霹雳舞😋\n将你推向舞海极地😘\n不用麻醉🥵\n一样情不自禁嗨起来，飞起来🤩\n主打DJ ROYSTEN🤖\n主打DJ BOBO😈\n只要你敢触电😃👌\n7月14日，15日🤨\n天地人间完全放电⚡⚡😍⚡⚡\n本次活动由珠江纯生啤酒独家承办😎"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你说得对🤓\n但今天是😋\n红色电音😡\n极地大冲击🤯\n来势汹汹的TRANCE电音😨\n激爆网络神秘地带😎\n加上风靡多年的霹雳舞😋\n将你推向舞海极地😘\n不用麻醉🥵\n一样情不自禁嗨起来，飞起来🤩\n主打DJ ROYSTEN🤖\n主打DJ BOBO😈\n只要你敢触电😃👌\n7月14日，15日🤨\n天地人间完全放电⚡⚡😍⚡⚡ https://t.co/BW7yL6raEC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2076843325269897216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJuADDacAAgO_u.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076843325269897216"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Electronic",
+              "id": "849684313704611840",
+              "name": "Electronic music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1254826839555469314",
+              "name": "Trance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1285999703704743938",
+              "name": "Dance & electronic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Electronic",
+              "id": "849684313704611840",
+              "name": "Electronic music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1254826839555469314",
+              "name": "Trance"
+            }
+          }
+        ],
+        "conversation_id": "2076843339115356607",
+        "created_at": "2026-07-14T01:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076843339115356607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BW7yL6raEC",
+              "end": 175,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2076843339115356607/photo/1",
+              "media_key": "3_2076843325269897216",
+              "start": 152,
+              "url": "https://t.co/BW7yL6raEC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076843339115356607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你说得对🤓\n但今天是😋\n红色电音😡\n极地大冲击🤯\n来势汹汹的TRANCE电音😨\n激爆网络神秘地带😎\n加上风靡多年的霹雳舞😋\n将你推向舞海极地😘\n不用麻醉🥵\n一样情不自禁嗨起来，飞起来🤩\n主打DJ ROYSTEN🤖\n主打DJ BOBO😈\n只要你敢触电😃👌\n7月14日，15日🤨\n天地人间完全放电⚡⚡😍⚡⚡\n本次活动由珠江纯生啤酒独家承办😎"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说得对🤓\n但今天是😋\n红色电音😡\n极地大冲击🤯\n来势汹汹的TRANCE电音😨\n激爆网络神秘地带😎\n加上风靡多年的霹雳舞😋\n将你推向舞海极地😘\n不用麻醉🥵\n一样情不自禁嗨起来，飞起来🤩\n主打DJ ROYSTEN🤖\n主打DJ BOBO😈\n只要你敢触电😃👌\n7月14日，15日🤨\n天地人间完全放电⚡⚡😍⚡⚡ https://t.co/BW7yL6raEC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念，非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 98,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 75,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 126,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 103,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 298,
+          "like_count": 2697,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

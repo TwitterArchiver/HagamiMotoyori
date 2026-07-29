@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2080114139436101831",
+    "created_at": "2026-07-23T02:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080114139436101831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mmi9xd/status/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/mmi9xd/status/2079958642170954018",
+          "start": 9,
+          "url": "https://t.co/2hX1XZmmjk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080114139436101831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079958642170954018",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不搬我們看什麼（ https://t.co/2hX1XZmmjk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29303,
+        "height": 960,
+        "media_key": "7_2079958597384261632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2079958597384261632/pu/img/mgVKs47tFNZOa3uM.jpg",
+        "public_metrics": {
+          "view_count": 15251
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079958597384261632/pu/vid/avc1/320x426/iJub3qINUZ7e1368.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079958597384261632/pu/vid/avc1/480x640/2S_qr8eftFy1vVIR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079958597384261632/pu/vid/avc1/720x960/glseGF0yK_ODjCbK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2079958597384261632/pu/pl/dNyYA6_Ynb36ycwf.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2080114139436101831",
+        "created_at": "2026-07-23T02:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080114139436101831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mmi9xd/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/mmi9xd/status/2079958642170954018",
+              "start": 9,
+              "url": "https://t.co/2hX1XZmmjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080114139436101831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079958642170954018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不搬我們看什麼（ https://t.co/2hX1XZmmjk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2079958597384261632"
+          ]
+        },
+        "author_id": "2064023095191756801",
+        "conversation_id": "2079958642170954018",
+        "created_at": "2026-07-22T15:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079958642170954018"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "我的世界中国版"
+            },
+            {
+              "end": 16,
+              "start": 9,
+              "tag": "游戏破壁计划"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Se08KTVLVG",
+              "end": 40,
+              "expanded_url": "https://x.com/mmi9xd/status/2079958642170954018/video/1",
+              "media_key": "7_2079958597384261632",
+              "start": 17,
+              "url": "https://t.co/Se08KTVLVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079958642170954018",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 42211,
+          "like_count": 152,
+          "quote_count": 7,
+          "reply_count": 112,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "#我的世界中国版 #游戏破壁计划 https://t.co/Se08KTVLVG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念，非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 98,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 75,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 126,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 103,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2079429027346174135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 347,
+          "like_count": 4468,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 722
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-08T16:35:35.000Z",
+        "description": "MC手机玩神奇宝贝⬇推荐加群🔥\n一群：189932837（Q群）⬅\n\n添加上方的QQ群⬆⬆⬆",
+        "id": "2064023095191756801",
+        "name": "我的世界皓辰",
+        "pinned_tweet_id": "2078483721880297921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078482632405667840/eb9fajFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 14,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "mmi9xd",
+        "verified": false
+      }
+    ]
+  }
+}

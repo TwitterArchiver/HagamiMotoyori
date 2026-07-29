@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      }
+    ],
+    "conversation_id": "2081228162919432211",
+    "created_at": "2026-07-26T04:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081228162919432211"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081228162919432211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你说的对，但我们不打算在Minecraft中加入竖半砖，因为竖半砖的加入会带来无数种变体对内存和帧率带来影响，于是我们加入了铜矿，深层铜矿，粗铜，粗铜块，铜锭，铜粒，铜头盔，铜胸甲，铜裤子，铜鞋子，铜剑，铜斧，铜镐，铜锄，铜锹，铜火把，铜块，斑驳的铜块，锈蚀的铜块，氧化的铜块，涂蜡的铜块，涂蜡的斑驳的铜块，涂蜡的锈蚀的铜块，涂蜡的氧化的铜块，切制铜块，斑驳的切制铜块，锈蚀的切制铜块，氧化的切制铜块，涂蜡的切制铜块，涂蜡的斑驳的切制铜块，涂蜡的锈蚀的切制铜块，涂蜡的氧化的切制铜块，切制铜楼梯，斑驳的切制铜楼梯，锈蚀的切制铜楼梯，氧化的切制铜楼梯 涂蜡的切制铜楼梯，涂蜡的斑驳的切制铜楼梯，涂蜡的锈蚀的切制铜楼梯，涂蜡的氧化的切制铜楼梯，切制铜台阶，斑驳的切制铜台阶，锈蚀的切制铜台阶，氧化的切制铜台阶，涂蜡的切制铜台阶，涂蜡的斑驳的切制铜台阶，涂蜡的锈蚀的切制铜台阶，涂蜡的氧化的切制铜台阶，铜格栅，斑驳的铜格栅，锈蚀的铜格栅，氧化的铜格栅，涂蜡的铜格栅，涂蜡的斑驳的铜格栅，涂蜡的锈蚀的铜格栅，涂蜡的氧化的铜格栅，雕纹铜块，斑驳的雕纹铜块，锈蚀的雕纹铜块，氧化的雕纹铜块，涂蜡的雕纹铜块，涂蜡的斑驳的雕纹铜块，涂蜡的锈蚀的雕纹铜块，涂蜡的氧化的雕纹铜块，铜栏杆，斑驳的铜栏杆，锈蚀的铜栏杆，氧化的铜栏杆，涂蜡的铜栏杆，涂蜡的斑驳铜栏杆，涂蜡的锈蚀铜栏杆，涂蜡的氧化铜栏杆，铜链，斑驳的铜链，锈蚀的铜链，氧化的铜链，涂蜡的铜链，涂蜡的斑驳铜链，涂蜡的锈蚀铜链，涂蜡的氧化铜链，铜傀儡，斑驳的铜傀儡，锈蚀的铜傀儡，氧化的铜傀儡，涂蜡的铜傀儡，涂蜡的斑驳铜傀儡，涂蜡的锈蚀铜傀儡，涂蜡的氧化铜傀儡，铜傀儡像，斑驳的铜傀儡像，锈蚀的铜傀儡像，氧化的铜傀儡像，涂蜡的铜傀儡像，涂蜡的斑驳铜傀儡像，涂蜡的锈蚀铜傀儡像，涂蜡的氧化铜傀儡像，铜灯笼，斑驳的铜灯笼，锈蚀的铜灯笼，氧化的铜灯笼，涂蜡的铜灯笼，涂蜡的斑驳铜灯笼，涂蜡的锈蚀铜灯笼，涂蜡的氧化铜灯笼，避雷针，斑驳的避雷针，锈蚀的避雷针，氧化的避雷针，涂蜡的避雷针，涂蜡的斑驳避雷针，涂蜡的锈蚀避雷针，涂蜡的氧化避雷针，铜门，斑驳的铜门，锈蚀的铜门，氧化的铜门，涂蜡的铜门，涂蜡的斑驳的铜门，涂蜡的锈蚀的铜门，涂蜡的氧化的铜门（"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你说的对，但我们不打算在Minecraft中加入竖半砖，因为竖半砖的加入会带来无数种变体对内存和帧率带来影响，于是我们加入了铜矿，深层铜矿，粗铜，粗铜块，铜锭，铜粒，铜头盔，铜胸甲，铜裤子，铜鞋子，铜剑，铜斧，铜镐，铜锄，铜锹，铜火把，铜块，斑驳的铜块，锈蚀的铜块，氧化的铜块，涂蜡的铜块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2081228162919432211",
+        "created_at": "2026-07-26T04:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081228162919432211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081228162919432211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你说的对，但我们不打算在Minecraft中加入竖半砖，因为竖半砖的加入会带来无数种变体对内存和帧率带来影响，于是我们加入了铜矿，深层铜矿，粗铜，粗铜块，铜锭，铜粒，铜头盔，铜胸甲，铜裤子，铜鞋子，铜剑，铜斧，铜镐，铜锄，铜锹，铜火把，铜块，斑驳的铜块，锈蚀的铜块，氧化的铜块，涂蜡的铜块，涂蜡的斑驳的铜块，涂蜡的锈蚀的铜块，涂蜡的氧化的铜块，切制铜块，斑驳的切制铜块，锈蚀的切制铜块，氧化的切制铜块，涂蜡的切制铜块，涂蜡的斑驳的切制铜块，涂蜡的锈蚀的切制铜块，涂蜡的氧化的切制铜块，切制铜楼梯，斑驳的切制铜楼梯，锈蚀的切制铜楼梯，氧化的切制铜楼梯 涂蜡的切制铜楼梯，涂蜡的斑驳的切制铜楼梯，涂蜡的锈蚀的切制铜楼梯，涂蜡的氧化的切制铜楼梯，切制铜台阶，斑驳的切制铜台阶，锈蚀的切制铜台阶，氧化的切制铜台阶，涂蜡的切制铜台阶，涂蜡的斑驳的切制铜台阶，涂蜡的锈蚀的切制铜台阶，涂蜡的氧化的切制铜台阶，铜格栅，斑驳的铜格栅，锈蚀的铜格栅，氧化的铜格栅，涂蜡的铜格栅，涂蜡的斑驳的铜格栅，涂蜡的锈蚀的铜格栅，涂蜡的氧化的铜格栅，雕纹铜块，斑驳的雕纹铜块，锈蚀的雕纹铜块，氧化的雕纹铜块，涂蜡的雕纹铜块，涂蜡的斑驳的雕纹铜块，涂蜡的锈蚀的雕纹铜块，涂蜡的氧化的雕纹铜块，铜栏杆，斑驳的铜栏杆，锈蚀的铜栏杆，氧化的铜栏杆，涂蜡的铜栏杆，涂蜡的斑驳铜栏杆，涂蜡的锈蚀铜栏杆，涂蜡的氧化铜栏杆，铜链，斑驳的铜链，锈蚀的铜链，氧化的铜链，涂蜡的铜链，涂蜡的斑驳铜链，涂蜡的锈蚀铜链，涂蜡的氧化铜链，铜傀儡，斑驳的铜傀儡，锈蚀的铜傀儡，氧化的铜傀儡，涂蜡的铜傀儡，涂蜡的斑驳铜傀儡，涂蜡的锈蚀铜傀儡，涂蜡的氧化铜傀儡，铜傀儡像，斑驳的铜傀儡像，锈蚀的铜傀儡像，氧化的铜傀儡像，涂蜡的铜傀儡像，涂蜡的斑驳铜傀儡像，涂蜡的锈蚀铜傀儡像，涂蜡的氧化铜傀儡像，铜灯笼，斑驳的铜灯笼，锈蚀的铜灯笼，氧化的铜灯笼，涂蜡的铜灯笼，涂蜡的斑驳铜灯笼，涂蜡的锈蚀铜灯笼，涂蜡的氧化铜灯笼，避雷针，斑驳的避雷针，锈蚀的避雷针，氧化的避雷针，涂蜡的避雷针，涂蜡的斑驳避雷针，涂蜡的锈蚀避雷针，涂蜡的氧化避雷针，铜门，斑驳的铜门，锈蚀的铜门，氧化的铜门，涂蜡的铜门，涂蜡的斑驳的铜门，涂蜡的锈蚀的铜门，涂蜡的氧化的铜门（"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说的对，但我们不打算在Minecraft中加入竖半砖，因为竖半砖的加入会带来无数种变体对内存和帧率带来影响，于是我们加入了铜矿，深层铜矿，粗铜，粗铜块，铜锭，铜粒，铜头盔，铜胸甲，铜裤子，铜鞋子，铜剑，铜斧，铜镐，铜锄，铜锹，铜火把，铜块，斑驳的铜块，锈蚀的铜块，氧化的铜块，涂蜡的铜块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 83,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 134,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 111,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2079429027346174135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 381,
+          "like_count": 5385,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

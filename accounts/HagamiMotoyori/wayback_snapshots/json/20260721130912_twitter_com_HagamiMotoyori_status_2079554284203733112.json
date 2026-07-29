@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2079551104606699689",
+    "created_at": "2026-07-21T13:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079554284203733112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2075131696488525824",
+          "start": 0,
+          "username": "a321908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079554284203733112",
+    "in_reply_to_user_id": "2075131696488525824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079551104606699689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a321908 买泡面？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2079551104606699689",
+        "created_at": "2026-07-21T13:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079554284203733112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2075131696488525824",
+              "start": 0,
+              "username": "a321908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079554284203733112",
+        "in_reply_to_user_id": "2075131696488525824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079551104606699689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a321908 买泡面？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075131696488525824",
+        "conversation_id": "2079551104606699689",
+        "created_at": "2026-07-21T12:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079551104606699689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079551104606699689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求100块钱度过一个月教程😰😰😰😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念，非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 98,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 75,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 126,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 103,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 341,
+          "like_count": 3982,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-09T08:17:41.000Z",
+        "description": "含丹吞药解旧愁，\n芙肌进展女儿柔。\n纵使他人千般语，\n心向清娥死不休。\nMTF 🏳️‍⚧ | HRT 🧬2026 4.25无证含糖 出厂日期2009 1.18 |家长反对党||od|紫残|精神状态堪忧|重焦焦虑ing|正在想着续糖😳欢迎互fo呀 同类有看见必回fo\n永远会怀念和记住与他点点滴滴人:于杰",
+        "id": "2075131696488525824",
+        "location": "jilin",
+        "name": "321908🍥🏳️‍️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075135379255214081/Xav5vJPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 241,
+          "like_count": 705,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 304
+        },
+        "url": "",
+        "username": "a321908",
+        "verified": false
+      }
+    ]
+  }
+}

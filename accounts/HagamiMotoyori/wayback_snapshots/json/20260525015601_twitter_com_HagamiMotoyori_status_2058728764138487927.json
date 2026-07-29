@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2058582676530143556",
+    "created_at": "2026-05-25T01:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058728764138487927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1580767946179194882",
+          "start": 0,
+          "username": "kfk_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058728764138487927",
+    "in_reply_to_user_id": "1580767946179194882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058582676530143556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kfk_ai 丁咚鸡，戴口罩，高核酸，简康码"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2058582676530143556",
+        "created_at": "2026-05-25T01:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058728764138487927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1580767946179194882",
+              "start": 0,
+              "username": "kfk_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058728764138487927",
+        "in_reply_to_user_id": "1580767946179194882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058582676530143556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kfk_ai 丁咚鸡，戴口罩，高核酸，简康码"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580767946179194882",
+        "conversation_id": "2058582676530143556",
+        "created_at": "2026-05-24T16:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058582676530143556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058582676530143556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 26612,
+          "like_count": 198,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "20后怎么没有名字叫做抗疫的？\n\n刘抗疫、陈解封、王科兴、赵核酸……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人类？！或许是吧｜生產日期2006｜\n中度抑鬱 重度焦慮 重度社交障礙 ｜无性恋｜生物在讀｜生命科學 通信工程｜日常碎碎念，非必要要不鍵政。https://t.co/IrwldmTp60｜提問箱https://t.co/TCPiEnLJQu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 94,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 71,
+                "url": "https://t.co/IrwldmTp60"
+              },
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 121,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 98,
+                "url": "https://t.co/TCPiEnLJQu"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057982548979118081/_ruwMj2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 316,
+          "like_count": 2023,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 418
+        },
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-14T03:50:34.000Z",
+        "description": "🇺🇸 美国八年｜💻 CS 科班 \n🤖 AI Builder｜Build in Public\n🌱 记录从 0 开始做自媒体\n🌊 深度大于速度 \n🍺 精酿爱好者\n👇 咨询合作注明来意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/yGdKyTsZp",
+                "end": 23,
+                "expanded_url": "https://discord.gg/yGdKyTsZp",
+                "start": 0,
+                "url": "https://t.co/OEFumiBsHU"
+              }
+            ]
+          }
+        },
+        "id": "1580767946179194882",
+        "location": "wechat: int_65535",
+        "name": "Kafka",
+        "pinned_tweet_id": "2054840791584133551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047190090401939456/aEcmSiyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5906,
+          "following_count": 222,
+          "like_count": 6153,
+          "listed_count": 30,
+          "media_count": 205,
+          "tweet_count": 2774
+        },
+        "url": "https://t.co/OEFumiBsHU",
+        "username": "kfk_ai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054453599686774784"
+      ]
+    },
+    "author_id": "1964343116930174978",
+    "conversation_id": "2054453608796840344",
+    "created_at": "2026-05-13T06:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054453608796840344"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P1APVJ09hU",
+          "end": 47,
+          "expanded_url": "https://x.com/HagamiMotoyori/status/2054453608796840344/photo/1",
+          "media_key": "3_2054453599686774784",
+          "start": 24,
+          "url": "https://t.co/P1APVJ09hU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054453608796840344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "10后创业CEO这一块\n嘉豪这一块\n少爷这一块 https://t.co/P1APVJ09hU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054453599686774784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILiqfjaUAAxpzI.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054453599686774784"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "conversation_id": "2054453608796840344",
+        "created_at": "2026-05-13T06:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054453608796840344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P1APVJ09hU",
+              "end": 47,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2054453608796840344/photo/1",
+              "media_key": "3_2054453599686774784",
+              "start": 24,
+              "url": "https://t.co/P1APVJ09hU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054453608796840344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "10后创业CEO这一块\n嘉豪这一块\n少爷这一块 https://t.co/P1APVJ09hU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "无证含糖｜生產日期2006產地：廣西｜\n中度抑鬱 重度焦慮 重度社交障礙 ｜\n生命科學｜日常碎碎念，非必要要不鍵政。\n歡迎來互fo,我很想交朋友喵！\nhttps://t.co/IrwldmTp60｜提問箱https://t.co/TCPiEnLJQu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 98,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 75,
+                "url": "https://t.co/IrwldmTp60"
+              },
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 125,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 102,
+                "url": "https://t.co/TCPiEnLJQu"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040822642689847296/JsAmJVcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 329,
+          "like_count": 1827,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 342
+        },
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

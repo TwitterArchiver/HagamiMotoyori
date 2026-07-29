@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079428027994484736"
+      ],
+      "media_source_tweet_id": [
+        "2079428035196100923"
+      ]
+    },
+    "author_id": "1964343116930174978",
+    "conversation_id": "2079430250912796795",
+    "created_at": "2026-07-21T04:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079430250912796795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1995146888249778177",
+          "start": 3,
+          "username": "Rin_Mashiro_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/64HOW4B9Lo",
+          "end": 47,
+          "expanded_url": "https://x.com/Rin_Mashiro_/status/2079428035196100923/photo/1",
+          "media_key": "3_2079428027994484736",
+          "start": 24,
+          "url": "https://t.co/64HOW4B9Lo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079430250912796795",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079428035196100923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rin_Mashiro_: 好吧我同意 https://t.co/64HOW4B9Lo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 867,
+        "media_key": "3_2079428027994484736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNucxjCaMAAokvG.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079428027994484736"
+          ]
+        },
+        "author_id": "1995146888249778177",
+        "conversation_id": "2079428035196100923",
+        "created_at": "2026-07-21T04:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079428035196100923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/64HOW4B9Lo",
+              "end": 29,
+              "expanded_url": "https://x.com/Rin_Mashiro_/status/2079428035196100923/photo/1",
+              "media_key": "3_2079428027994484736",
+              "start": 6,
+              "url": "https://t.co/64HOW4B9Lo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079428035196100923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好吧我同意 https://t.co/64HOW4B9Lo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079428027994484736"
+          ],
+          "media_source_tweet_id": [
+            "2079428035196100923"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "conversation_id": "2079430250912796795",
+        "created_at": "2026-07-21T04:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079430250912796795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1995146888249778177",
+              "start": 3,
+              "username": "Rin_Mashiro_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/64HOW4B9Lo",
+              "end": 47,
+              "expanded_url": "https://x.com/Rin_Mashiro_/status/2079428035196100923/photo/1",
+              "media_key": "3_2079428027994484736",
+              "start": 24,
+              "url": "https://t.co/64HOW4B9Lo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079430250912796795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079428035196100923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rin_Mashiro_: 好吧我同意 https://t.co/64HOW4B9Lo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念，非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 98,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 75,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 126,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 103,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 338,
+          "like_count": 3914,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 692
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "VPS梦女？（很喜欢这个称呼就拿来用了）｜处于HRT与非HRT叠加态（取决于买完vps还有没有钱…）｜无GD｜全栈｜软件开发｜AI｜ACGN｜JP（N2） EN CH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 23,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 0,
+                "url": "https://t.co/PVGkqciT7N"
+              }
+            ]
+          }
+        },
+        "id": "1995146888249778177",
+        "name": "Rin",
+        "pinned_tweet_id": "2078723691039572235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 57,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1037
+        },
+        "url": "https://t.co/PVGkqciT7N",
+        "username": "Rin_Mashiro_",
+        "verified": false
+      }
+    ]
+  }
+}

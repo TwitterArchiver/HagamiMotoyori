@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2074289662538268678",
+    "created_at": "2026-07-07T00:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T01:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074289662538268678"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074289662538268678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "Bisphenol A（双酚A，简称 BPA）是一种广泛使用的工业化学品，主要用于生产聚碳酸酯塑料和环氧树脂。\n常见用途\n透明塑料制品（部分水杯、食品容器等）\n食品和饮料罐内壁涂层\n超市和商场的部分热敏小票\n一些工业材料和电子产品\n对健康的影响\nBPA属于一种内分泌干扰物，可能模拟人体内雌激素的部分作用。大量动物实验和部分人体研究提示，高剂量或长期暴露可能与以下方面有关：\n生殖和发育影响\n内分泌系统变化\n婴幼儿发育风险增加\n其他潜在健康影响（相关研究仍在持续进行）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Bisphenol A（双酚A，简称 BPA）是一种广泛使用的工业化学品，主要用于生产聚碳酸酯塑料和环氧树脂。\n常见用途\n透明塑料制品（部分水杯、食品容器等）\n食品和饮料罐内壁涂层\n超市和商场的部分热敏小票\n一些工业材料和电子产品\n对健康的影响"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2074289662538268678",
+        "created_at": "2026-07-07T00:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074289662538268678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074289662538268678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Bisphenol A（双酚A，简称 BPA）是一种广泛使用的工业化学品，主要用于生产聚碳酸酯塑料和环氧树脂。\n常见用途\n透明塑料制品（部分水杯、食品容器等）\n食品和饮料罐内壁涂层\n超市和商场的部分热敏小票\n一些工业材料和电子产品\n对健康的影响\nBPA属于一种内分泌干扰物，可能模拟人体内雌激素的部分作用。大量动物实验和部分人体研究提示，高剂量或长期暴露可能与以下方面有关：\n生殖和发育影响\n内分泌系统变化\n婴幼儿发育风险增加\n其他潜在健康影响（相关研究仍在持续进行）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Bisphenol A（双酚A，简称 BPA）是一种广泛使用的工业化学品，主要用于生产聚碳酸酯塑料和环氧树脂。\n常见用途\n透明塑料制品（部分水杯、食品容器等）\n食品和饮料罐内壁涂层\n超市和商场的部分热敏小票\n一些工业材料和电子产品\n对健康的影响"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念，非必要要不鍵政｜互fo喵｜提問箱https://t.co/n6AqeCxqaW|\n討口子https://t.co/hcsZAPOjYh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 98,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 75,
+                "url": "https://t.co/n6AqeCxqaW"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 126,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 103,
+                "url": "https://t.co/hcsZAPOjYh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/e1WH7cFxGL"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057982548979118081/_ruwMj2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 287,
+          "like_count": 2444,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/e1WH7cFxGL",
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

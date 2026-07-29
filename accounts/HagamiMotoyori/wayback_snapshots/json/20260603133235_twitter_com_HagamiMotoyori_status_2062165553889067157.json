@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2062148742200070552",
+    "created_at": "2026-06-03T13:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062165553889067157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1811804972683788288",
+          "start": 0,
+          "username": "5twmdi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062165553889067157",
+    "in_reply_to_user_id": "1811804972683788288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062148742200070552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5twmdi 大一玩爽了😀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2062148742200070552",
+        "created_at": "2026-06-03T13:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062165553889067157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1811804972683788288",
+              "start": 0,
+              "username": "5twmdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062165553889067157",
+        "in_reply_to_user_id": "1811804972683788288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062148742200070552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5twmdi 大一玩爽了😀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811804972683788288",
+        "conversation_id": "2062148742200070552",
+        "created_at": "2026-06-03T12:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062148742200070552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062148742200070552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现马上大一就过完了\n一事无成啊😭😭\n感觉啥都没做，浪费了最珍贵的一年时间😭\n用刘皇叔的话说\n日月蹉跎，人已将老，而功业未建......\n一事无成啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人类？！或许是吧｜无证含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 重度社交障礙 ｜无性恋｜生物在讀｜生命科學 通信工程｜日常碎碎念，非必要要不鍵政。https://t.co/IrwldmTp60｜提問箱https://t.co/TCPiEnLJQu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 99,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 76,
+                "url": "https://t.co/IrwldmTp60"
+              },
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 126,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 103,
+                "url": "https://t.co/TCPiEnLJQu"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057982548979118081/_ruwMj2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 325,
+          "like_count": 2190,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 465
+        },
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T16:49:49.000Z",
+        "description": "07 生物专业 | YouTube 野生创作者 🎬\n试图把自己从实验室的搬砖日常里解放出来。\n这里只分享一个普通人的真实踩坑记录和自救小技巧。",
+        "id": "1811804972683788288",
+        "name": "我不叫山谷",
+        "pinned_tweet_id": "2057416640137187408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937887135987818496/YVdScDL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 789,
+          "like_count": 2521,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 1191
+        },
+        "username": "5twmdi",
+        "verified": true
+      }
+    ]
+  }
+}

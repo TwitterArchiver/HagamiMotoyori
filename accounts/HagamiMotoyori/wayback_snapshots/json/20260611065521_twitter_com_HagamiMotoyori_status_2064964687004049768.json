@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064964675243286528"
+      ]
+    },
+    "author_id": "1964343116930174978",
+    "conversation_id": "2064964687004049768",
+    "created_at": "2026-06-11T06:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064964687004049768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R92InAkZvH",
+          "end": 27,
+          "expanded_url": "https://x.com/HagamiMotoyori/status/2064964687004049768/photo/1",
+          "media_key": "3_2064964675243286528",
+          "start": 4,
+          "url": "https://t.co/R92InAkZvH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064964687004049768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "塔菲胶 https://t.co/R92InAkZvH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064964675243286528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKg6bnWbIAAFJC1.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064964675243286528"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "conversation_id": "2064964687004049768",
+        "created_at": "2026-06-11T06:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064964687004049768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R92InAkZvH",
+              "end": 27,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2064964687004049768/photo/1",
+              "media_key": "3_2064964675243286528",
+              "start": 4,
+              "url": "https://t.co/R92InAkZvH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064964687004049768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "塔菲胶 https://t.co/R92InAkZvH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 通信工程｜日常碎碎念，非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 102,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 79,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 130,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 107,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2062813386770182655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057982548979118081/_ruwMj2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 282,
+          "like_count": 2486,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}
