@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2086441671277908181",
+    "created_at": "2026-08-09T15:04:32.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T16:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086468680637112371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964331185590718464",
+          "start": 0,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086468680637112371",
+    "in_reply_to_user_id": "1964331185590718464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086441671277908181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@breakcoreWTF 能水中毒的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2086441671277908181",
+        "created_at": "2026-08-09T15:04:32.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086468680637112371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086468680637112371",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086441671277908181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 能水中毒的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2086441671277908181",
+        "created_at": "2026-08-09T13:17:13.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086441671277908181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086441671277908181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跟你们分享一个压箱底的冷门od好物：一氧化二氢，效果为欣快、轻微解离，但一氧化二氢有严重依赖，严重到不来一点就会死掉的程度，我昨天就O了差不多2000ml，今天做这个图的时候正在O，整体感觉就是神清气爽，不过戒断反应很强，有多起戒断7天后死亡的案例。综合来说是个OD好物，可以尝试一下。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖🍥｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 107,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 84,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 135,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 112,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "is_identity_verified": false,
+        "location": "虛無的盡頭",
+        "most_recent_tweet_id": "2086468680637112371",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2086460724436463672",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964343116930174978/1783523996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 406,
+          "like_count": 7299,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 873
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2086441671277908181",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 786,
+          "like_count": 38084,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 6745
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

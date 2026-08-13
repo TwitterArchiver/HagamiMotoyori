@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084627581677215744"
+      ]
+    },
+    "author_id": "1964343116930174978",
+    "conversation_id": "2084627592045625709",
+    "created_at": "2026-08-04T13:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084627592045625709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rhFGvj9bz0",
+          "end": 39,
+          "expanded_url": "https://x.com/HagamiMotoyori/status/2084627592045625709/photo/1",
+          "media_key": "3_2084627581677215744",
+          "start": 16,
+          "url": "https://t.co/rhFGvj9bz0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084627592045625709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "400fo了，感謝大家的陪伴😊 https://t.co/rhFGvj9bz0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2362,
+        "media_key": "3_2084627581677215744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4VvZ7aIAArdN0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084627581677215744"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "conversation_id": "2084627592045625709",
+        "created_at": "2026-08-04T13:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084627592045625709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhFGvj9bz0",
+              "end": 39,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2084627592045625709/photo/1",
+              "media_key": "3_2084627581677215744",
+              "start": 16,
+              "url": "https://t.co/rhFGvj9bz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084627592045625709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "400fo了，感謝大家的陪伴😊 https://t.co/rhFGvj9bz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 83,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 134,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 111,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 398,
+          "like_count": 6724,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

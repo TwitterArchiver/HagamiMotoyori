@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2086614659369738676",
+    "created_at": "2026-08-10T00:44:36.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T01:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086614659369738676"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086614659369738676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早安(゜-^*)/"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2086614659369738676",
+        "created_at": "2026-08-10T00:44:36.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T01:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086614659369738676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086614659369738676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安(゜-^*)/"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖🍥｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 107,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 84,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 135,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 112,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "is_identity_verified": false,
+        "location": "虛無的盡頭",
+        "most_recent_tweet_id": "2086614659369738676",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2086460724436463672",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964343116930174978/1783523996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 405,
+          "like_count": 7302,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2085613408888770657",
+    "created_at": "2026-08-07T10:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085677910611140620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1917261838485708802",
+          "start": 0,
+          "username": "qiujiudev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085677910611140620",
+    "in_reply_to_user_id": "1917261838485708802",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085613408888770657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiujiudev 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2085613408888770657",
+        "created_at": "2026-08-07T10:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085677910611140620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1917261838485708802",
+              "start": 0,
+              "username": "qiujiudev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085677910611140620",
+        "in_reply_to_user_id": "1917261838485708802",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085613408888770657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiujiudev 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917261838485708802",
+        "conversation_id": "2085613408888770657",
+        "created_at": "2026-08-07T06:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085613408888770657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "api.xiaoheihe.cn/game/share_gam…",
+              "end": 56,
+              "expanded_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=f80d9f2ad206&game_type=console",
+              "start": 33,
+              "unwound_url": "https://www.xiaoheihe.cn/app/topic/game/console/f80d9f2ad206?title=%E5%8A%A8%E6%BC%AB%E8%B5%A4%E8%B6%B3%E7%94%B7%E5%AD%A9%EF%BC%9A%E9%AD%85%E5%8A%9B%E5%AF%BB%E8%A7%85%E4%BB%BB%E5%8A%A1&game_type=console&appid=f80d9f2ad206",
+              "url": "https://t.co/iOohq557ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085613408888770657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2723,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是我见到过最好玩的游戏，立绘十分精美，现在还打折你们快看看（）\nhttps://t.co/iOohq557ZT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 83,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 134,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 111,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 404,
+          "like_count": 7044,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 857
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是秋玖，一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/v5O8gYnjm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 101,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 78,
+                "url": "https://t.co/v5O8gYnjm0"
+              }
+            ]
+          }
+        },
+        "id": "1917261838485708802",
+        "name": "秋玖",
+        "pinned_tweet_id": "2083548515905753559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077321726548193281/6_jw7mdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 485,
+          "like_count": 2682,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false
+      }
+    ]
+  }
+}

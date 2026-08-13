@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2085613995978096840",
+    "created_at": "2026-08-07T06:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T07:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085613995978096840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuXi520LingLin…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/YuXi520LingLing/status/2085599678859764115",
+          "start": 140,
+          "url": "https://t.co/CymXpeN0qs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085613995978096840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085599678859764115",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝贝，你一定要当人妖啊，妈妈好开心啊，你现在学也不用上，妈妈帮你天天请假去看医生，你能告诉妈妈现在感觉怎样吗？你看现在穿上t恤已经会凸出圆锥胸型了。妈妈最爱你了，一定要吃人妖药，你是妈妈的心肝啊，妈妈今天晚上一定能睡个好觉了，一定要变性啊！妈妈现在真的更爱你了，你真的变得好漂亮 https://t.co/CymXpeN0qs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2085613995978096840",
+        "created_at": "2026-08-07T06:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085613995978096840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuXi520LingLin…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/YuXi520LingLing/status/2085599678859764115",
+              "start": 140,
+              "url": "https://t.co/CymXpeN0qs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085613995978096840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085599678859764115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝贝，你一定要当人妖啊，妈妈好开心啊，你现在学也不用上，妈妈帮你天天请假去看医生，你能告诉妈妈现在感觉怎样吗？你看现在穿上t恤已经会凸出圆锥胸型了。妈妈最爱你了，一定要吃人妖药，你是妈妈的心肝啊，妈妈今天晚上一定能睡个好觉了，一定要变性啊！妈妈现在真的更爱你了，你真的变得好漂亮 https://t.co/CymXpeN0qs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071552995691732993",
+        "conversation_id": "2085599678859764115",
+        "created_at": "2026-08-07T05:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085599678859764115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhcvhw18221/st…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/hhcvhw18221/status/2085542151975207053",
+              "start": 140,
+              "url": "https://t.co/J0AgV5um8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085599678859764115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085542151975207053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝贝，你一定要当人妖啊，妈妈好开心啊，你现在学也不用上，妈妈帮你天天请假去看医生，你能告诉妈妈现在感觉怎样吗？你看现在穿上t恤已经会凸出圆锥胸型了。妈妈最爱你了，一定要吃人妖药，你是妈妈的心肝啊，妈妈今天晚上一定能睡个好觉了，一定要变性啊！妈妈现在真的更爱你了，你真的变得好漂亮 https://t.co/J0AgV5um8P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 83,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 134,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 111,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 405,
+          "like_count": 7017,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 853
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-29T11:20:03.000Z",
+        "description": "MTF｜無證含糖｜💊｜🔪🩸｜生产日期：2009.3.26｜hrt：2026.1.16｜同类互fo｜晚安享受者｜ym重度依赖｜精神稳定？？？｜1米68高个子｜有关必回！\n会发一些日常和自己唠叨\n最爱的妹妹：@LingLinghmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 102,
+                "username": "LingLinghmiao"
+              }
+            ]
+          }
+        },
+        "id": "2071552995691732993",
+        "location": "America",
+        "name": "语汐汐喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084566967743385600/tkDTpCpZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 240,
+          "like_count": 58,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "YuXi520LingLing",
+        "verified": false
+      }
+    ]
+  }
+}

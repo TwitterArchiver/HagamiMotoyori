@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2080258175622934889",
+    "created_at": "2026-07-23T11:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080258175622934889"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080258175622934889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【防诈提醒】近期公安机关发现，有不法分子冒充电信工作人员，以\"免费升级网络设备\"为由上门安装非法通信设备用于诈骗。如您遇到自称电信人员上门的情况，请务必拨打客服热线10000或到电信营业厅核实其身份，切勿让对方接触您的固话或网络设备，避免被不法分子利用实施犯罪行为。【中国电信】"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2080258175622934889",
+        "created_at": "2026-07-23T11:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080258175622934889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080258175622934889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【防诈提醒】近期公安机关发现，有不法分子冒充电信工作人员，以\"免费升级网络设备\"为由上门安装非法通信设备用于诈骗。如您遇到自称电信人员上门的情况，请务必拨打客服热线10000或到电信营业厅核实其身份，切勿让对方接触您的固话或网络设备，避免被不法分子利用实施犯罪行为。【中国电信】"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念，非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 98,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 75,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 126,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 103,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2079429027346174135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 354,
+          "like_count": 4705,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

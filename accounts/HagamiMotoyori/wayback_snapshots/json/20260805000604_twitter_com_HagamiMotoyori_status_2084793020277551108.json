@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2084586641671520364",
+    "created_at": "2026-08-05T00:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T01:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084793020277551108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699273459325390848",
+          "start": 0,
+          "username": "DurantRaym93677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084793020277551108",
+    "in_reply_to_user_id": "1699273459325390848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084678503937785960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DurantRaym93677 沒事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2084586641671520364",
+        "created_at": "2026-08-05T00:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T01:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084793020277551108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699273459325390848",
+              "start": 0,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084793020277551108",
+        "in_reply_to_user_id": "1699273459325390848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084678503937785960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DurantRaym93677 沒事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699273459325390848",
+        "conversation_id": "2084586641671520364",
+        "created_at": "2026-08-04T16:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084678503937785960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964343116930174978",
+              "start": 0,
+              "username": "HagamiMotoyori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084678503937785960",
+        "in_reply_to_user_id": "1964343116930174978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084586641671520364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HagamiMotoyori 怎麼了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 83,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 134,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 111,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 407,
+          "like_count": 6730,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 833
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼 🔑サブ: @AmmieColl84391 (フォロー歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @Chiyorin0908",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "enchenia"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Chiyorin0908"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "location": "Japan",
+        "name": "Luke 鈴木 さくらみ⛩️",
+        "pinned_tweet_id": "1991763708138397781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3615,
+          "following_count": 4198,
+          "like_count": 52141,
+          "listed_count": 15,
+          "media_count": 623,
+          "tweet_count": 12477
+        },
+        "url": "",
+        "username": "DurantRaym93677",
+        "verified": true
+      }
+    ]
+  }
+}

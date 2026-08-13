@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082090677719248896"
+      ],
+      "media_source_tweet_id": [
+        "2082090712141885739"
+      ]
+    },
+    "author_id": "1964343116930174978",
+    "conversation_id": "2082140458147590302",
+    "created_at": "2026-07-28T16:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082140458147590302"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "推友寻回"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2082080789119016961",
+          "start": 3,
+          "username": "hoshinofuji___"
+        },
+        {
+          "end": 47,
+          "id": "1622066090074607616",
+          "start": 33,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iLsspclOtj",
+          "end": 84,
+          "expanded_url": "https://x.com/hoshinofuji___/status/2082090712141885739/photo/1",
+          "media_key": "3_2082090677719248896",
+          "start": 61,
+          "url": "https://t.co/iLsspclOtj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082140458147590302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082090712141885739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofuji___: #推友寻回\n本账号是原 .@hoshinofujivy 麻烦认识小藤的人回个fo https://t.co/iLsspclOtj"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [hoshinofujivy].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hoshinofujivy",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hoshinofujivy"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082090677719248896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUScKObsAAnE1Z.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082090677719248896"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "conversation_id": "2082090712141885739",
+        "created_at": "2026-07-28T13:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082090712141885739"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "推友寻回"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1622066090074607616",
+              "start": 13,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iLsspclOtj",
+              "end": 64,
+              "expanded_url": "https://x.com/hoshinofuji___/status/2082090712141885739/photo/1",
+              "media_key": "3_2082090677719248896",
+              "start": 41,
+              "url": "https://t.co/iLsspclOtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082090712141885739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1104,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "#推友寻回\n本账号是原 .@hoshinofujivy 麻烦认识小藤的人回个fo https://t.co/iLsspclOtj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082090677719248896"
+          ],
+          "media_source_tweet_id": [
+            "2082090712141885739"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "conversation_id": "2082140458147590302",
+        "created_at": "2026-07-28T16:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082140458147590302"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "推友寻回"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2082080789119016961",
+              "start": 3,
+              "username": "hoshinofuji___"
+            },
+            {
+              "end": 47,
+              "id": "1622066090074607616",
+              "start": 33,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iLsspclOtj",
+              "end": 84,
+              "expanded_url": "https://x.com/hoshinofuji___/status/2082090712141885739/photo/1",
+              "media_key": "3_2082090677719248896",
+              "start": 61,
+              "url": "https://t.co/iLsspclOtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082140458147590302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082090712141885739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofuji___: #推友寻回\n本账号是原 .@hoshinofujivy 麻烦认识小藤的人回个fo https://t.co/iLsspclOtj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 83,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 134,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 111,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 387,
+          "like_count": 5757,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 785
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜love the whole world🇺🇳｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "name": "星野ふじ（reborn）",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082081722901188608/L8AzdfTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 140,
+          "like_count": 163,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "hoshinofuji___",
+        "verified": true
+      }
+    ]
+  }
+}

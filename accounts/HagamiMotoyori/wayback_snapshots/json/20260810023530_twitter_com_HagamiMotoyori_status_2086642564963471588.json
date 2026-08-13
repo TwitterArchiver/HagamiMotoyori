@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086642558239981568"
+      ]
+    },
+    "author_id": "1964343116930174978",
+    "conversation_id": "2086641056964354542",
+    "created_at": "2026-08-10T02:35:30.000Z",
+    "display_text_range": [
+      12,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T03:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086642564963471588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880979169297022976",
+          "start": 0,
+          "username": "Wesley10032"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7mi3U8a1co",
+          "end": 36,
+          "expanded_url": "https://x.com/HagamiMotoyori/status/2086642564963471588/photo/1",
+          "media_key": "3_2086642558239981568",
+          "start": 13,
+          "url": "https://t.co/7mi3U8a1co"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086642564963471588",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2086642558239981568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086641056964354542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wesley10032 https://t.co/7mi3U8a1co"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1401,
+        "media_key": "3_2086642558239981568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPU-WekbQAA9J4p.jpg",
+        "width": 621
+      },
+      {
+        "height": 1103,
+        "media_key": "3_2086641041726443520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPU8-NHbEAAEuc-.jpg",
+        "width": 290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086642558239981568"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "conversation_id": "2086641056964354542",
+        "created_at": "2026-08-10T02:35:30.000Z",
+        "display_text_range": [
+          12,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086642564963471588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mi3U8a1co",
+              "end": 36,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2086642564963471588/photo/1",
+              "media_key": "3_2086642558239981568",
+              "start": 13,
+              "url": "https://t.co/7mi3U8a1co"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086642564963471588",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2086642558239981568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086641056964354542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 https://t.co/7mi3U8a1co"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086641041726443520"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2086641056964354542",
+        "created_at": "2026-08-10T02:29:30.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086641056964354542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddgqtS6V70",
+              "end": 27,
+              "expanded_url": "https://x.com/Wesley10032/status/2086641056964354542/photo/1",
+              "media_key": "3_2086641041726443520",
+              "start": 4,
+              "url": "https://t.co/ddgqtS6V70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086641056964354542",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086641041726443520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无语。 https://t.co/ddgqtS6V70"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖🍥｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 107,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 84,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 135,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 112,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "is_identity_verified": false,
+        "location": "虛無的盡頭",
+        "most_recent_tweet_id": "2086642564963471588",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2086460724436463672",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964343116930174978/1783523996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 405,
+          "like_count": 7313,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2086641056964354542",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 1354,
+          "like_count": 14017,
+          "listed_count": 1,
+          "media_count": 342,
+          "tweet_count": 2464
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

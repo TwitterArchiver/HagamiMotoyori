@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2082854636218892390",
+    "created_at": "2026-07-30T15:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082854636218892390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879644163769335808",
+          "start": 3,
+          "username": "WhiteHouse"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Covid 19 Origins - Lab Leak THE ORIGIN “The Proximal Origin of SARS-CoV-2” publication — which was used repeatedly by public health officials and the",
+          "display_url": "COVID.GOV",
+          "end": 52,
+          "expanded_url": "http://COVID.GOV",
+          "images": [
+            {
+              "height": 2960,
+              "url": "https://pbs.twimg.com/news_img/2082232039793983488/fxaw6N7U?format=jpg&name=orig",
+              "width": 6288
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2082232039793983488/fxaw6N7U?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 29,
+          "status": 200,
+          "title": "Lab Leak: The True Origins of Covid-19",
+          "unwound_url": "https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/",
+          "url": "https://t.co/nWMBrHOpHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082854636218892390",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23611
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082467621220307445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WhiteHouse: The truth. \n\nhttps://t.co/nWMBrHOpHH 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2082854636218892390",
+        "created_at": "2026-07-30T15:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082854636218892390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879644163769335808",
+              "start": 3,
+              "username": "WhiteHouse"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Covid 19 Origins - Lab Leak THE ORIGIN “The Proximal Origin of SARS-CoV-2” publication — which was used repeatedly by public health officials and the",
+              "display_url": "COVID.GOV",
+              "end": 52,
+              "expanded_url": "http://COVID.GOV",
+              "images": [
+                {
+                  "height": 2960,
+                  "url": "https://pbs.twimg.com/news_img/2082232039793983488/fxaw6N7U?format=jpg&name=orig",
+                  "width": 6288
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082232039793983488/fxaw6N7U?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "Lab Leak: The True Origins of Covid-19",
+              "unwound_url": "https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/",
+              "url": "https://t.co/nWMBrHOpHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082854636218892390",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23611
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082467621220307445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WhiteHouse: The truth. \n\nhttps://t.co/nWMBrHOpHH 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879644163769335808",
+        "conversation_id": "2082467621220307445",
+        "created_at": "2026-07-29T14:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082467621220307445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Covid 19 Origins - Lab Leak THE ORIGIN “The Proximal Origin of SARS-CoV-2” publication — which was used repeatedly by public health officials and the",
+              "display_url": "COVID.GOV",
+              "end": 36,
+              "expanded_url": "http://COVID.GOV",
+              "images": [
+                {
+                  "height": 2960,
+                  "url": "https://pbs.twimg.com/news_img/2082232039793983488/fxaw6N7U?format=jpg&name=orig",
+                  "width": 6288
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082232039793983488/fxaw6N7U?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "Lab Leak: The True Origins of Covid-19",
+              "unwound_url": "https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/",
+              "url": "https://t.co/nWMBrHOpHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082467621220307445",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44012,
+          "impression_count": 85056590,
+          "like_count": 118953,
+          "quote_count": 7087,
+          "reply_count": 6336,
+          "retweet_count": 23607
+        },
+        "reply_settings": "everyone",
+        "text": "The truth. \n\nhttps://t.co/nWMBrHOpHH 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 83,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 134,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 111,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 390,
+          "like_count": 6093,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 803
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T21:37:54.000Z",
+        "description": "Welcome to The Golden Age of America. \n📱 Text USA to 45470 to receive alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/0BqS4u2dGX"
+              }
+            ]
+          }
+        },
+        "id": "1879644163769335808",
+        "location": "Washington, DC",
+        "name": "The White House",
+        "pinned_tweet_id": "2070270274872738258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062605835256127489/atNMwHxg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5069664,
+          "following_count": 5,
+          "like_count": 266,
+          "listed_count": 9155,
+          "media_count": 6338,
+          "tweet_count": 17236
+        },
+        "url": "https://t.co/0BqS4u2dGX",
+        "username": "WhiteHouse",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2084948827912704163",
+    "created_at": "2026-08-05T10:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084948827912704163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "2.Windows",
+          "end": 61,
+          "expanded_url": "http://2.Windows",
+          "start": 38,
+          "unwound_url": "http://2.Windows",
+          "url": "https://t.co/7DtC475TLs"
+        },
+        {
+          "display_url": "4.Windows",
+          "end": 123,
+          "expanded_url": "http://4.Windows",
+          "start": 100,
+          "unwound_url": "http://4.Windows",
+          "url": "https://t.co/gkRhyjLzX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084948827912704163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "2.Windows",
+            "end": 61,
+            "expanded_url": "http://2.Windows",
+            "start": 38,
+            "url": "https://t.co/VN5BXYxkql"
+          },
+          {
+            "display_url": "4.Windows",
+            "end": 123,
+            "expanded_url": "http://4.Windows",
+            "start": 100,
+            "url": "https://t.co/bB3tl255yj"
+          }
+        ]
+      },
+      "text": "10句听了全身上下酥酥麻麻的话\n1.  :(  你的电脑遇到问题，需要重启\nhttps://t.co/VN5BXYxkql 文件资源管理器 已停止工作\n3.无法访问E:/  磁盘结构损坏且无法读取。\nhttps://t.co/bB3tl255yj Defender 防病毒已发现威胁并自动清除，点击查看详情\n5.Command not found\n6.Device or resource busy\n7.Permission denied\n8.Out of memory: Killed process (PID)\n9.连接已重置  ERR_CONNECTION_RESET\n10.SSH:Connection time out"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "10句听了全身上下酥酥麻麻的话\n1.  :(  你的电脑遇到问题，需要重启\nhttps://t.co/7DtC475TLs 文件资源管理器 已停止工作\n3.无法访问E:/  磁盘结构损坏且无法读取。\nhttps://t.co/gkRhyjLzX4 Defender 防病毒已发现威胁并自动清除，点击查看详情\n5.Command not found\n6.Device or resource busy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2084948827912704163",
+        "created_at": "2026-08-05T10:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084948827912704163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "2.Windows",
+              "end": 61,
+              "expanded_url": "http://2.Windows",
+              "start": 38,
+              "unwound_url": "http://2.Windows",
+              "url": "https://t.co/7DtC475TLs"
+            },
+            {
+              "display_url": "4.Windows",
+              "end": 123,
+              "expanded_url": "http://4.Windows",
+              "start": 100,
+              "unwound_url": "http://4.Windows",
+              "url": "https://t.co/gkRhyjLzX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084948827912704163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "2.Windows",
+                "end": 61,
+                "expanded_url": "http://2.Windows",
+                "start": 38,
+                "url": "https://t.co/VN5BXYxkql"
+              },
+              {
+                "display_url": "4.Windows",
+                "end": 123,
+                "expanded_url": "http://4.Windows",
+                "start": 100,
+                "url": "https://t.co/bB3tl255yj"
+              }
+            ]
+          },
+          "text": "10句听了全身上下酥酥麻麻的话\n1.  :(  你的电脑遇到问题，需要重启\nhttps://t.co/VN5BXYxkql 文件资源管理器 已停止工作\n3.无法访问E:/  磁盘结构损坏且无法读取。\nhttps://t.co/bB3tl255yj Defender 防病毒已发现威胁并自动清除，点击查看详情\n5.Command not found\n6.Device or resource busy\n7.Permission denied\n8.Out of memory: Killed process (PID)\n9.连接已重置  ERR_CONNECTION_RESET\n10.SSH:Connection time out"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "10句听了全身上下酥酥麻麻的话\n1.  :(  你的电脑遇到问题，需要重启\nhttps://t.co/7DtC475TLs 文件资源管理器 已停止工作\n3.无法访问E:/  磁盘结构损坏且无法读取。\nhttps://t.co/gkRhyjLzX4 Defender 防病毒已发现威胁并自动清除，点击查看详情\n5.Command not found\n6.Device or resource busy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 83,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 134,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 111,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 404,
+          "like_count": 6817,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 836
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}
