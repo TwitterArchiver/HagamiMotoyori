@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-07T18:48:04",
+  "last_updated": "2026-09-07T18:48:25",
   "html": {
     "https://web.archive.org/web/20260412151020if_/https://twitter.com/HagamiMotoyori/status/2043345981291606063": {
       "status": "done",
@@ -5664,13 +5664,13 @@
       "last_updated": "2026-07-29T09:37:19"
     },
     "https://pbs.twimg.com/profile_images/2041579509544292352/UDvfT4hS_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260422022707_twitter_com_HagamiMotoyori_status_2046777792285827509.json"
       ],
-      "last_updated": "2026-08-13T04:27:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422022707im_/https://pbs.twimg.com/profile_images/2041579509544292352/UDvfT4hS_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fadcfad0530>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:48:25",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260422022707if_/https://pbs.twimg.com/profile_images/2041579509544292352/UDvfT4hS_normal.jpg",
+      "miss_count": 7
     },
     "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg": {
       "status": "done",
@@ -5689,13 +5689,13 @@
       "miss_count": 5
     },
     "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260426063544_twitter_com_HagamiMotoyori_status_2048289909526683792.json"
       ],
-      "last_updated": "2026-08-13T04:27:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426063544if_/https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fadd0383bc0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:48:25",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260426063544if_/https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+      "miss_count": 7
     },
     "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg": {
       "status": "done",
@@ -7264,7 +7264,7 @@
       "last_updated": "2026-08-13T04:27:35"
     },
     "https://pbs.twimg.com/profile_images/2087514453529227264/gV2s-_Bx_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260812134752_twitter_com_HagamiMotoyori_status_2087536547012940212.json",
         "20260813011805_twitter_com_HagamiMotoyori_status_2087710247490289968.json",
@@ -7272,19 +7272,22 @@
         "20260813115402_twitter_com_HagamiMotoyori_status_2087870289933893835.json",
         "20260814055823_twitter_com_HagamiMotoyori_status_2088143173977833953.json",
         "20260815073629_twitter_com_HagamiMotoyori_status_2088530249369915900.json"
-      ]
+      ],
+      "last_updated": "2026-09-07T18:48:23"
     },
     "https://pbs.twimg.com/profile_images/2067337921745817600/wKeKB8Bb_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260812134752_twitter_com_HagamiMotoyori_status_2087536547012940212.json"
-      ]
+      ],
+      "last_updated": "2026-09-07T18:48:23"
     },
     "https://pbs.twimg.com/profile_images/2085266166722019328/qU3IaA0o_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260814055823_twitter_com_HagamiMotoyori_status_2088143173977833953.json"
-      ]
+      ],
+      "last_updated": "2026-09-07T18:48:23"
     }
   },
   "media": {
@@ -8118,7 +8121,7 @@
       "miss_count": 2
     },
     "20260422022707_twitter_com_HagamiMotoyori_status_2046777792285827509.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HGeMqyuasAARfAU.jpg"
@@ -8129,7 +8132,7 @@
           "https://pbs.twimg.com/profile_images/2041579509544292352/UDvfT4hS_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-07T18:48:03",
+      "last_updated": "2026-09-07T18:48:25",
       "miss_count": 6
     },
     "20260422035410_twitter_com_HagamiMotoyori_status_2046799700410646967.json": {
@@ -8201,7 +8204,7 @@
       "miss_count": 2
     },
     "20260426063544_twitter_com_HagamiMotoyori_status_2048289909526683792.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -8210,7 +8213,7 @@
           "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-07T18:48:03",
+      "last_updated": "2026-09-07T18:48:25",
       "miss_count": 6
     },
     "20260426103935_twitter_com_HagamiMotoyori_status_2048351275503472732.json": {
@@ -16278,7 +16281,7 @@
       "last_updated": "2026-09-07T18:46:42"
     },
     "20260812134752_twitter_com_HagamiMotoyori_status_2087536547012940212.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -16289,10 +16292,10 @@
           "https://pbs.twimg.com/profile_images/2067337921745817600/wKeKB8Bb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-07T18:48:04"
+      "last_updated": "2026-09-07T18:48:23"
     },
     "20260813011805_twitter_com_HagamiMotoyori_status_2087710247490289968.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -16301,10 +16304,10 @@
           "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-07T18:48:03"
+      "last_updated": "2026-09-07T18:48:23"
     },
     "20260813101437_twitter_com_HagamiMotoyori_status_2087845270365376815.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -16313,10 +16316,10 @@
           "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-07T18:48:03"
+      "last_updated": "2026-09-07T18:48:23"
     },
     "20260813115402_twitter_com_HagamiMotoyori_status_2087870289933893835.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPma9eYb0AALqW3.jpg"
@@ -16326,10 +16329,10 @@
           "https://pbs.twimg.com/profile_images/2087514453529227264/gV2s-_Bx_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-07T18:48:03"
+      "last_updated": "2026-09-07T18:48:23"
     },
     "20260814055823_twitter_com_HagamiMotoyori_status_2088143173977833953.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -16338,10 +16341,10 @@
           "https://pbs.twimg.com/profile_images/2085266166722019328/qU3IaA0o_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-07T18:48:03"
+      "last_updated": "2026-09-07T18:48:23"
     },
     "20260815073629_twitter_com_HagamiMotoyori_status_2088530249369915900.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPvzL61a0AEsKk2.jpg"
@@ -16351,7 +16354,7 @@
           "https://pbs.twimg.com/profile_images/2087514453529227264/gV2s-_Bx_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-07T18:48:03"
+      "last_updated": "2026-09-07T18:48:23"
     }
   }
 }
