@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964343116930174978",
+    "conversation_id": "2087710247490289968",
+    "created_at": "2026-08-13T01:18:05.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T02:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087710247490289968"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 48,
+          "tag": "藍v互fo"
+        },
+        {
+          "end": 60,
+          "start": 55,
+          "tag": "藍v互關"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "藍v"
+        },
+        {
+          "end": 69,
+          "start": 65,
+          "tag": "互fo"
+        },
+        {
+          "end": 77,
+          "start": 70,
+          "tag": "mutual"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2076841557802864640",
+          "start": 3,
+          "username": "kuukiwtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087710247490289968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087606060878303590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuukiwtf: 誰來和我互fo\n\n不管是不是premium都來互fo \n歡迎阿 \n\n#藍v互fo #藍v互關 #藍v #互fo\n#mutual \n\n望轉傳repost呀 感謝呀🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964343116930174978",
+        "conversation_id": "2087710247490289968",
+        "created_at": "2026-08-13T01:18:05.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087710247490289968"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "藍v互fo"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "藍v互關"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "藍v"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "互fo"
+            },
+            {
+              "end": 77,
+              "start": 70,
+              "tag": "mutual"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2076841557802864640",
+              "start": 3,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087710247490289968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087606060878303590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuukiwtf: 誰來和我互fo\n\n不管是不是premium都來互fo \n歡迎阿 \n\n#藍v互fo #藍v互關 #藍v #互fo\n#mutual \n\n望轉傳repost呀 感謝呀🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087606060878303590",
+        "created_at": "2026-08-12T18:24:05.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:22:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087605642479747396",
+          "2087606060878303590"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "藍v互fo"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "藍v互關"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "藍v"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "互fo"
+            },
+            {
+              "end": 63,
+              "start": 56,
+              "tag": "mutual"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087606060878303590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰來和我互fo\n\n不管是不是premium都來互fo \n歡迎阿 \n\n#藍v互fo #藍v互關 #藍v #互fo\n#mutual \n\n望轉傳repost呀 感謝呀🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖🍥｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 107,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 84,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 135,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 112,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "is_identity_verified": false,
+        "location": "虛無的盡頭",
+        "most_recent_tweet_id": "2087710247490289968",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2086460724436463672",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964343116930174978/1786524913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087514453529227264/gV2s-_Bx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 409,
+          "like_count": 7498,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087635471237337466",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 639,
+          "like_count": 10906,
+          "listed_count": 0,
+          "media_count": 478,
+          "tweet_count": 2257
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

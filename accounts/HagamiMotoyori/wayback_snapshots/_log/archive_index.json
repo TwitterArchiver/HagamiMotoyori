@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-13T04:27:47",
+  "last_updated": "2026-09-07T18:47:47",
   "html": {
     "https://web.archive.org/web/20260412151020if_/https://twitter.com/HagamiMotoyori/status/2043345981291606063": {
       "status": "done",
@@ -2765,6 +2765,58 @@
     "https://web.archive.org/web/20260811030125if_/https://twitter.com/HagamiMotoyori/status/2087011475969691877": {
       "status": "done",
       "last_updated": "2026-08-13T04:25:38"
+    },
+    "https://web.archive.org/web/20260811152655if_/https://twitter.com/HagamiMotoyori/status/2087199086739144886": {
+      "status": "done",
+      "last_updated": "2026-09-07T18:46:37"
+    },
+    "https://web.archive.org/web/20260811013929if_/https://twitter.com/HagamiMotoyori/status/2086990857417486827": {
+      "status": "done",
+      "last_updated": "2026-09-07T18:46:37"
+    },
+    "https://web.archive.org/web/20260813101437if_/https://twitter.com/HagamiMotoyori/status/2087845270365376815": {
+      "status": "done",
+      "last_updated": "2026-09-07T18:46:37"
+    },
+    "https://web.archive.org/web/20260812081425if_/https://twitter.com/HagamiMotoyori/status/2087452632365650353": {
+      "status": "done",
+      "last_updated": "2026-09-07T18:46:37"
+    },
+    "https://web.archive.org/web/20260811040418if_/https://twitter.com/HagamiMotoyori/status/2087027300751876533": {
+      "status": "done",
+      "last_updated": "2026-09-07T18:46:37"
+    },
+    "https://web.archive.org/web/20260813011805if_/https://twitter.com/HagamiMotoyori/status/2087710247490289968": {
+      "status": "done",
+      "last_updated": "2026-09-07T18:46:37"
+    },
+    "https://web.archive.org/web/20260811045606if_/https://twitter.com/HagamiMotoyori/status/2087040336317251996": {
+      "status": "done",
+      "last_updated": "2026-09-07T18:46:37"
+    },
+    "https://web.archive.org/web/20260811031041if_/https://twitter.com/HagamiMotoyori/status/2087013808489599198": {
+      "status": "done",
+      "last_updated": "2026-09-07T18:46:38"
+    },
+    "https://web.archive.org/web/20260812003422if_/https://twitter.com/HagamiMotoyori/status/2087336857428517244": {
+      "status": "done",
+      "last_updated": "2026-09-07T18:46:38"
+    },
+    "https://web.archive.org/web/20260814055823if_/https://twitter.com/HagamiMotoyori/status/2088143173977833953": {
+      "status": "done",
+      "last_updated": "2026-09-07T18:46:38"
+    },
+    "https://web.archive.org/web/20260815073629if_/https://twitter.com/HagamiMotoyori/status/2088530249369915900": {
+      "status": "done",
+      "last_updated": "2026-09-07T18:46:38"
+    },
+    "https://web.archive.org/web/20260812134752if_/https://twitter.com/HagamiMotoyori/status/2087536547012940212": {
+      "status": "done",
+      "last_updated": "2026-09-07T18:46:38"
+    },
+    "https://web.archive.org/web/20260813115402if_/https://twitter.com/HagamiMotoyori/status/2087870289933893835": {
+      "status": "done",
+      "last_updated": "2026-09-07T18:46:42"
     }
   },
   "images": {
@@ -2858,18 +2910,18 @@
       "referenced_by": [
         "20260414065401_twitter_com_HagamiMotoyori_status_2043945857574416796.json"
       ],
-      "last_updated": "2026-08-13T04:25:49",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414065401/https://pbs.twimg.com/media/HF2KNM9aIAAIav3.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f070575c680>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:46:54",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414065401/https://pbs.twimg.com/media/HF2KNM9aIAAIav3.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87ec3f5610>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HF22gYna4AE59Lx.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260414095120_twitter_com_HagamiMotoyori_status_2043990481034690597.json"
       ],
-      "last_updated": "2026-08-13T04:25:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414095120im_/https://pbs.twimg.com/media/HF22gYna4AE59Lx.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f070575d130>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:46:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414095120/https://pbs.twimg.com/media/HF22gYna4AE59Lx.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87eb258c20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HF8Dqf2a0AA2jUq.jpg": {
       "status": "done",
@@ -2897,9 +2949,9 @@
       "referenced_by": [
         "20260415122100_twitter_com_HagamiMotoyori_status_2044390534228435138.json"
       ],
-      "last_updated": "2026-08-13T04:25:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415122100im_/https://pbs.twimg.com/media/HF8XahiawAA0EKm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f07055ca930>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:47:00",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415122100/https://pbs.twimg.com/media/HF8XahiawAA0EKm.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87eb288410>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HF7w6j8b0AA2NNm.jpg": {
       "status": "done",
@@ -2927,18 +2979,18 @@
       "referenced_by": [
         "20260418125141_twitter_com_HagamiMotoyori_status_2045485416749670828.json"
       ],
-      "last_updated": "2026-08-13T04:26:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418125141im_/https://pbs.twimg.com/media/HGMGI5CaQAEH-Pu.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f07055f5e50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:47:03",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418125141/https://pbs.twimg.com/media/HGMGI5CaQAEH-Pu.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87ec3f44a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HGMGIwibAAED076.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260418125141_twitter_com_HagamiMotoyori_status_2045485416749670828.json"
       ],
-      "last_updated": "2026-08-13T04:26:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418125141im_/https://pbs.twimg.com/media/HGMGIwibAAED076.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f07055f4410>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:47:07",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418125141/https://pbs.twimg.com/media/HGMGIwibAAED076.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87eb25be00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HGOPxyXbAAAjDMq.jpg": {
       "status": "done",
@@ -2995,9 +3047,9 @@
       "referenced_by": [
         "20260420032036_twitter_com_HagamiMotoyori_status_2046066474658504770.json"
       ],
-      "last_updated": "2026-08-13T04:26:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420032036im_/https://pbs.twimg.com/media/HGUWQdQaEAAlAHx.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f070575fe90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:47:10",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420032036/https://pbs.twimg.com/media/HGUWQdQaEAAlAHx.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87ec3f7b30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HGWysZRawAERinI.jpg": {
       "status": "done",
@@ -3054,16 +3106,16 @@
       "referenced_by": [
         "20260422022707_twitter_com_HagamiMotoyori_status_2046777792285827509.json"
       ],
-      "last_updated": "2026-08-13T04:25:39"
+      "last_updated": "2026-09-07T18:46:42"
     },
     "https://pbs.twimg.com/media/HGfcNqtaAAACk70.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260422071757_twitter_com_HagamiMotoyori_status_2046850982953553949.json"
       ],
-      "last_updated": "2026-08-13T04:26:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422071757im_/https://pbs.twimg.com/media/HGfcNqtaAAACk70.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f07055f7f80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:47:13",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422071757/https://pbs.twimg.com/media/HGfcNqtaAAACk70.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87eb288e90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HGfo6fUa8AAhy4D.jpg": {
       "status": "done",
@@ -3225,9 +3277,9 @@
       "referenced_by": [
         "20260507015656_twitter_com_HagamiMotoyori_status_2052206013445771307.json"
       ],
-      "last_updated": "2026-08-13T04:26:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507015656im_/https://pbs.twimg.com/media/HHrRo5DaoAAy6Pm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0705621520>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:47:16",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507015656/https://pbs.twimg.com/media/HHrRo5DaoAAy6Pm.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87eb2b8ad0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HHt1wKXacAA4a2Y.jpg": {
       "status": "done",
@@ -3255,9 +3307,9 @@
       "referenced_by": [
         "20260509052159_twitter_com_HagamiMotoyori_status_2052982393829802189.json"
       ],
-      "last_updated": "2026-08-13T04:26:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509052159im_/https://pbs.twimg.com/media/HH2U7Q8aMAAC7CD.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f070575e4b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:47:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509052159/https://pbs.twimg.com/media/HH2U7Q8aMAAC7CD.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87eb2bb8c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HH7NhXiakAAwQhj.jpg": {
       "status": "done",
@@ -3967,9 +4019,9 @@
       "referenced_by": [
         "20260608135157_twitter_com_HagamiMotoyori_status_2063982363374502318.json"
       ],
-      "last_updated": "2026-08-13T04:26:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608135157im_/https://pbs.twimg.com/media/HKS8A3Xb0AAMKVd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f07055f4a10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:47:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608135157/https://pbs.twimg.com/media/HKS8A3Xb0AAMKVd.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87ecf1dac0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HKVX2naa0AEkHdA.jpg": {
       "status": "done",
@@ -3983,18 +4035,18 @@
       "referenced_by": [
         "20260609064442_twitter_com_HagamiMotoyori_status_2064237230659666039.json"
       ],
-      "last_updated": "2026-08-13T04:26:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260609064442if_/https://pbs.twimg.com/media/HKWYesna0AEfhhI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0705e84e30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:47:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260609064442/https://pbs.twimg.com/media/HKWYesna0AEfhhI.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87eb2bb9b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HKWYessa0AEpLf4.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260609064442_twitter_com_HagamiMotoyori_status_2064237230659666039.json"
       ],
-      "last_updated": "2026-08-13T04:26:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260609064442im_/https://pbs.twimg.com/media/HKWYessa0AEpLf4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0705621c70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:47:29",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260609064442/https://pbs.twimg.com/media/HKWYessa0AEpLf4.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87eb2894f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HKXeQcAbwAAcY1B.jpg": {
       "status": "done",
@@ -4008,9 +4060,9 @@
       "referenced_by": [
         "20260610154935_twitter_com_HagamiMotoyori_status_2064736745795768803.json"
       ],
-      "last_updated": "2026-08-13T04:26:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610154935im_/https://pbs.twimg.com/media/G7zjGgYaMAIrRKm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f07055ca570>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:47:32",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610154935/https://pbs.twimg.com/media/G7zjGgYaMAIrRKm.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87eb2bb2c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HKg6bnWbIAAFJC1.jpg": {
       "status": "done",
@@ -4052,9 +4104,9 @@
       "referenced_by": [
         "20260615001416_twitter_com_HagamiMotoyori_status_2066313304306552875.json"
       ],
-      "last_updated": "2026-08-13T04:26:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615001416im_/https://pbs.twimg.com/media/HKya7wXboAAsOQy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0705621e50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:47:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615001416/https://pbs.twimg.com/media/HKya7wXboAAsOQy.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87ec3f5640>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HK0LlHGagAAhUFw.jpg": {
       "status": "done",
@@ -4218,9 +4270,9 @@
       "referenced_by": [
         "20260711121719_twitter_com_HagamiMotoyori_status_2075917350629777609.json"
       ],
-      "last_updated": "2026-08-13T04:26:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260711121719im_/https://pbs.twimg.com/media/HM8elFAaUAE4i37.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f07055f5460>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:47:38",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260711121719/https://pbs.twimg.com/media/HM8elFAaUAE4i37.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87eb2bbb00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HM_WKJnbsAA1hhj.jpg": {
       "status": "done",
@@ -4733,9 +4785,9 @@
       "referenced_by": [
         "20260722084642_twitter_com_HagamiMotoyori_status_2079850614574723150.json"
       ],
-      "last_updated": "2026-08-13T04:26:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260722084642im_/https://pbs.twimg.com/media/HN0WEQfaMAEi1pw.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f07055f72f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-09-07T18:47:42",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260722084642/https://pbs.twimg.com/media/HN0WEQfaMAEi1pw.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87eb2881d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HN4rQWSagAAhZcG.jpg": {
       "status": "done",
@@ -4752,11 +4804,11 @@
       "last_updated": "2026-07-29T09:29:48"
     },
     "https://pbs.twimg.com/media/HN4unAubsAEFxfZ.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260723105551_twitter_com_HagamiMotoyori_status_2080245500226478373.json"
       ],
-      "last_updated": "2026-08-13T04:26:59",
+      "last_updated": "2026-09-07T18:46:43",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723105551im_/https://pbs.twimg.com/media/HN4unAubsAEFxfZ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f07055f6ba0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 6
     },
@@ -5172,6 +5224,31 @@
         "20260811005640_twitter_com_HagamiMotoyori_status_2086980082116206624.json"
       ],
       "last_updated": "2026-08-13T04:25:41"
+    },
+    "https://pbs.twimg.com/media/HPb6Eq3aYAEkt_6.png": {
+      "status": "done",
+      "referenced_by": [
+        "20260811152655_twitter_com_HagamiMotoyori_status_2087199086739144886.json"
+      ],
+      "last_updated": "2026-09-07T18:46:43"
+    },
+    "https://pbs.twimg.com/media/HPma9eYb0AALqW3.jpg": {
+      "status": "failed",
+      "referenced_by": [
+        "20260813115402_twitter_com_HagamiMotoyori_status_2087870289933893835.json"
+      ],
+      "last_updated": "2026-09-07T18:47:45",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260813115402/https://pbs.twimg.com/media/HPma9eYb0AALqW3.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87eb2b81d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 2
+    },
+    "https://pbs.twimg.com/media/HPvzL61a0AEsKk2.jpg": {
+      "status": "failed",
+      "referenced_by": [
+        "20260815073629_twitter_com_HagamiMotoyori_status_2088530249369915900.json"
+      ],
+      "last_updated": "2026-09-07T18:47:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260815073629/https://pbs.twimg.com/media/HPvzL61a0AEsKk2.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87eb288d70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 2
     }
   },
   "videos": {
@@ -5244,6 +5321,12 @@
         "20260730152118_twitter_com_HagamiMotoyori_status_2082849020985385249.json"
       ],
       "last_updated": "2026-08-13T04:27:17"
+    },
+    "https://video.twimg.com/tweet_video/HPhfa6dbYAAlCGj.mp4": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260812134752_twitter_com_HagamiMotoyori_status_2087536547012940212.json"
+      ]
     }
   },
   "avatars": {
@@ -6662,7 +6745,14 @@
         "20260810111406_twitter_com_HagamiMotoyori_status_2086773077741044197.json",
         "20260810131957_twitter_com_HagamiMotoyori_status_2086804749073133865.json",
         "20260811005640_twitter_com_HagamiMotoyori_status_2086980082116206624.json",
-        "20260811030125_twitter_com_HagamiMotoyori_status_2087011475969691877.json"
+        "20260811030125_twitter_com_HagamiMotoyori_status_2087011475969691877.json",
+        "20260811013929_twitter_com_HagamiMotoyori_status_2086990857417486827.json",
+        "20260811031041_twitter_com_HagamiMotoyori_status_2087013808489599198.json",
+        "20260811040418_twitter_com_HagamiMotoyori_status_2087027300751876533.json",
+        "20260811045606_twitter_com_HagamiMotoyori_status_2087040336317251996.json",
+        "20260811152655_twitter_com_HagamiMotoyori_status_2087199086739144886.json",
+        "20260812003422_twitter_com_HagamiMotoyori_status_2087336857428517244.json",
+        "20260812081425_twitter_com_HagamiMotoyori_status_2087452632365650353.json"
       ],
       "last_updated": "2026-07-29T09:37:21"
     },
@@ -6751,7 +6841,8 @@
       "referenced_by": [
         "20260717065334_twitter_com_HagamiMotoyori_status_2078010200536309934.json",
         "20260724080820_twitter_com_HagamiMotoyori_status_2080565731318776007.json",
-        "20260807115919_twitter_com_HagamiMotoyori_status_2085697292141789320.json"
+        "20260807115919_twitter_com_HagamiMotoyori_status_2085697292141789320.json",
+        "20260811152655_twitter_com_HagamiMotoyori_status_2087199086739144886.json"
       ],
       "last_updated": "2026-07-29T09:37:21"
     },
@@ -6882,7 +6973,8 @@
         "20260727002350_twitter_com_HagamiMotoyori_status_2081536002469019648.json",
         "20260730152118_twitter_com_HagamiMotoyori_status_2082849020985385249.json",
         "20260801044025_twitter_com_HagamiMotoyori_status_2083412514071826579.json",
-        "20260810045316_twitter_com_HagamiMotoyori_status_2086677238016336383.json"
+        "20260810045316_twitter_com_HagamiMotoyori_status_2086677238016336383.json",
+        "20260813011805_twitter_com_HagamiMotoyori_status_2087710247490289968.json"
       ],
       "last_updated": "2026-07-29T09:37:21"
     },
@@ -7108,7 +7200,8 @@
         "20260803104422_twitter_com_HagamiMotoyori_status_2084228877715714144.json",
         "20260803115037_twitter_com_HagamiMotoyori_status_2084245551642722450.json",
         "20260803115411_twitter_com_HagamiMotoyori_status_2084246447256736055.json",
-        "20260804101338_twitter_com_HagamiMotoyori_status_2084583532899504269.json"
+        "20260804101338_twitter_com_HagamiMotoyori_status_2084583532899504269.json",
+        "20260813101437_twitter_com_HagamiMotoyori_status_2087845270365376815.json"
       ],
       "last_updated": "2026-08-13T04:27:34"
     },
@@ -7136,7 +7229,8 @@
     "https://pbs.twimg.com/profile_images/2084566967743385600/tkDTpCpZ_normal.jpg": {
       "status": "done",
       "referenced_by": [
-        "20260807062820_twitter_com_HagamiMotoyori_status_2085613995978096840.json"
+        "20260807062820_twitter_com_HagamiMotoyori_status_2085613995978096840.json",
+        "20260811013929_twitter_com_HagamiMotoyori_status_2086990857417486827.json"
       ],
       "last_updated": "2026-08-13T04:27:35"
     },
@@ -7167,6 +7261,29 @@
         "20260810111406_twitter_com_HagamiMotoyori_status_2086773077741044197.json"
       ],
       "last_updated": "2026-08-13T04:27:35"
+    },
+    "https://pbs.twimg.com/profile_images/2087514453529227264/gV2s-_Bx_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260812134752_twitter_com_HagamiMotoyori_status_2087536547012940212.json",
+        "20260813011805_twitter_com_HagamiMotoyori_status_2087710247490289968.json",
+        "20260813101437_twitter_com_HagamiMotoyori_status_2087845270365376815.json",
+        "20260813115402_twitter_com_HagamiMotoyori_status_2087870289933893835.json",
+        "20260814055823_twitter_com_HagamiMotoyori_status_2088143173977833953.json",
+        "20260815073629_twitter_com_HagamiMotoyori_status_2088530249369915900.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2067337921745817600/wKeKB8Bb_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260812134752_twitter_com_HagamiMotoyori_status_2087536547012940212.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2085266166722019328/qU3IaA0o_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260814055823_twitter_com_HagamiMotoyori_status_2088143173977833953.json"
+      ]
     }
   },
   "media": {
@@ -7453,8 +7570,8 @@
           "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:46",
+      "miss_count": 5
     },
     "20260414095120_twitter_com_HagamiMotoyori_status_2043990481034690597.json": {
       "status": "failed",
@@ -7467,8 +7584,8 @@
           "https://pbs.twimg.com/profile_images/2040822642689847296/JsAmJVcw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:47",
+      "miss_count": 5
     },
     "20260414235234_twitter_com_HagamiMotoyori_status_2044202183680553302.json": {
       "status": "done",
@@ -7586,8 +7703,8 @@
           "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:46",
+      "miss_count": 5
     },
     "20260416023846_twitter_com_HagamiMotoyori_status_2044606395736310102.json": {
       "status": "done",
@@ -7656,8 +7773,8 @@
           "https://pbs.twimg.com/profile_images/2040822642689847296/JsAmJVcw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:51",
+      "miss_count": 5
     },
     "20260418211643_twitter_com_HagamiMotoyori_status_2045612514738831413.json": {
       "status": "done",
@@ -7821,8 +7938,8 @@
           "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:47",
+      "miss_count": 5
     },
     "20260420144047_twitter_com_HagamiMotoyori_status_2046237647727886623.json": {
       "status": "done",
@@ -8011,8 +8128,8 @@
           "https://pbs.twimg.com/profile_images/2041579509544292352/UDvfT4hS_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:42",
+      "miss_count": 5
     },
     "20260422035410_twitter_com_HagamiMotoyori_status_2046799700410646967.json": {
       "status": "done",
@@ -8039,8 +8156,8 @@
           "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:46",
+      "miss_count": 5
     },
     "20260422075624_twitter_com_HagamiMotoyori_status_2046860658374050271.json": {
       "status": "done",
@@ -8092,8 +8209,8 @@
           "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:42",
+      "miss_count": 5
     },
     "20260426103935_twitter_com_HagamiMotoyori_status_2048351275503472732.json": {
       "status": "done",
@@ -8642,8 +8759,8 @@
           "https://pbs.twimg.com/profile_images/2045274685164949504/jv-Rj4Eo_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:46",
+      "miss_count": 5
     },
     "20260507055141_twitter_com_HagamiMotoyori_status_2052265091144564997.json": {
       "status": "done",
@@ -8760,8 +8877,8 @@
           "https://pbs.twimg.com/profile_images/2052347801045200896/4j5q_ZbS_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:47",
+      "miss_count": 5
     },
     "20260509150136_twitter_com_HagamiMotoyori_status_2053128255843237984.json": {
       "status": "done",
@@ -11538,8 +11655,8 @@
           "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:46",
+      "miss_count": 5
     },
     "20260609010826_twitter_com_HagamiMotoyori_status_2064152608747786459.json": {
       "status": "done",
@@ -11628,8 +11745,8 @@
           "https://pbs.twimg.com/profile_images/2057839343092572160/OVoHdrKn_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:50",
+      "miss_count": 5
     },
     "20260609065306_twitter_com_HagamiMotoyori_status_2064239346618937353.json": {
       "status": "done",
@@ -11770,8 +11887,8 @@
           "https://pbs.twimg.com/profile_images/2057982548979118081/_ruwMj2u_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:47",
+      "miss_count": 5
     },
     "20260611040441_twitter_com_HagamiMotoyori_status_2064921737280757891.json": {
       "status": "done",
@@ -11978,8 +12095,8 @@
           "https://pbs.twimg.com/profile_images/2062897677717946368/bHujNViG_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:46",
+      "miss_count": 5
     },
     "20260615004302_twitter_com_HagamiMotoyori_status_2066320542718947559.json": {
       "status": "done",
@@ -12669,8 +12786,8 @@
           "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:48",
+      "miss_count": 5
     },
     "20260711231934_twitter_com_HagamiMotoyori_status_2076084009055273076.json": {
       "status": "done",
@@ -14152,8 +14269,8 @@
           "https://pbs.twimg.com/profile_images/2079842850292838400/rDOxVe1s_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
-      "miss_count": 4
+      "last_updated": "2026-09-07T18:46:47",
+      "miss_count": 5
     },
     "20260723010917_twitter_com_HagamiMotoyori_status_2080097888466870441.json": {
       "status": "done",
@@ -14281,7 +14398,7 @@
       "last_updated": "2026-07-29T09:37:21"
     },
     "20260723105551_twitter_com_HagamiMotoyori_status_2080245500226478373.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HN4unAubsAEFxfZ.jpg"
@@ -14292,7 +14409,7 @@
           "https://pbs.twimg.com/profile_images/2079816271148023808/1pDQllIf_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-13T04:27:16",
+      "last_updated": "2026-09-07T18:46:43",
       "miss_count": 4
     },
     "20260723110106_twitter_com_HagamiMotoyori_status_2080246823055392813.json": {
@@ -16077,6 +16194,163 @@
         ]
       },
       "last_updated": "2026-08-13T04:25:40"
+    },
+    "20260811013929_twitter_com_HagamiMotoyori_status_2086990857417486827.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2084566967743385600/tkDTpCpZ_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-07T18:46:42"
+    },
+    "20260811031041_twitter_com_HagamiMotoyori_status_2087013808489599198.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-07T18:46:42"
+    },
+    "20260811040418_twitter_com_HagamiMotoyori_status_2087027300751876533.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-07T18:46:42"
+    },
+    "20260811045606_twitter_com_HagamiMotoyori_status_2087040336317251996.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-07T18:46:42"
+    },
+    "20260811152655_twitter_com_HagamiMotoyori_status_2087199086739144886.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HPb6Eq3aYAEkt_6.png"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-07T18:46:43"
+    },
+    "20260812003422_twitter_com_HagamiMotoyori_status_2087336857428517244.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-07T18:46:42"
+    },
+    "20260812081425_twitter_com_HagamiMotoyori_status_2087452632365650353.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-07T18:46:42"
+    },
+    "20260812134752_twitter_com_HagamiMotoyori_status_2087536547012940212.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [
+          "https://video.twimg.com/tweet_video/HPhfa6dbYAAlCGj.mp4"
+        ],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2087514453529227264/gV2s-_Bx_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2067337921745817600/wKeKB8Bb_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-07T18:46:42"
+    },
+    "20260813011805_twitter_com_HagamiMotoyori_status_2087710247490289968.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2087514453529227264/gV2s-_Bx_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-07T18:46:42"
+    },
+    "20260813101437_twitter_com_HagamiMotoyori_status_2087845270365376815.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2087514453529227264/gV2s-_Bx_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-07T18:46:42"
+    },
+    "20260813115402_twitter_com_HagamiMotoyori_status_2087870289933893835.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HPma9eYb0AALqW3.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2087514453529227264/gV2s-_Bx_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-07T18:46:46"
+    },
+    "20260814055823_twitter_com_HagamiMotoyori_status_2088143173977833953.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2087514453529227264/gV2s-_Bx_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2085266166722019328/qU3IaA0o_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-07T18:46:42"
+    },
+    "20260815073629_twitter_com_HagamiMotoyori_status_2088530249369915900.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HPvzL61a0AEsKk2.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2087514453529227264/gV2s-_Bx_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-07T18:46:46"
     }
   }
 }
